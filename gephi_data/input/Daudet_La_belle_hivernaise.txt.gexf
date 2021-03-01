@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="François" label="François" />
+      <node id="Louveau" label="Louveau" />
+      <node id="Victor" label="Victor" />
+      <node id="Clara" label="Clara" />
+      <node id="Maugendre" label="Maugendre" />
+      <node id="Mimile" label="Mimile" />
+      <node id="Équipage" label="Équipage" />
+      <node id="Corbigny" label="Corbigny" />
+      <node id="Gaspard" label="Gaspard" />
+      <node id="Klotz" label="Klotz" />
+      <node id="Dubac" label="Dubac" />
+      <node id="Clamecy" label="Clamecy" />
+      <node id="Jarjaille" label="Jarjaille" />
+      <node id="Pierre" label="Pierre" />
+      <node id="Maintenant" label="Maintenant" />
+      <node id="CHAPITRE" label="CHAPITRE" />
+      <node id="Saint" label="Saint" />
+      <node id="Matéri" label="Matéri" />
+      <node id="Lakdar" label="Lakdar" />
+      <node id="Garrigue" label="Garrigue" />
+      <node id="Balaguère" label="Balaguère" />
+      <node id="Drelindin" label="Drelindin" />
+      <node id="Arnoton" label="Arnoton" />
+      <node id="Garrigou" label="Garrigou" />
+      <node id="Augustine" label="Augustine" />
+    </nodes>
+    <edges>
+      <edge id="0" source="François" target="Louveau" weight="88.0" />
+      <edge id="1" source="François" target="Victor" weight="58.0" />
+      <edge id="2" source="François" target="Clara" weight="44.0" />
+      <edge id="3" source="François" target="Maugendre" weight="36.0" />
+      <edge id="4" source="François" target="Équipage" weight="13.0" />
+      <edge id="5" source="François" target="Clamecy" weight="13.0" />
+      <edge id="6" source="François" target="Mimile" weight="13.0" />
+      <edge id="7" source="François" target="CHAPITRE" weight="12.0" />
+      <edge id="8" source="François" target="Maintenant" weight="10.0" />
+      <edge id="9" source="François" target="Corbigny" weight="7.0" />
+      <edge id="10" source="François" target="Dubac" weight="7.0" />
+      <edge id="11" source="Louveau" target="Victor" weight="88.0" />
+      <edge id="12" source="Louveau" target="Clara" weight="81.0" />
+      <edge id="13" source="Louveau" target="Maugendre" weight="60.0" />
+      <edge id="14" source="Louveau" target="Mimile" weight="34.0" />
+      <edge id="15" source="Louveau" target="Équipage" weight="23.0" />
+      <edge id="16" source="Louveau" target="Dubac" weight="23.0" />
+      <edge id="17" source="Louveau" target="Clamecy" weight="20.0" />
+      <edge id="18" source="Louveau" target="Maintenant" weight="18.0" />
+      <edge id="19" source="Louveau" target="CHAPITRE" weight="18.0" />
+      <edge id="20" source="Louveau" target="Corbigny" weight="16.0" />
+      <edge id="21" source="Louveau" target="Jarjaille" weight="12.0" />
+      <edge id="22" source="Louveau" target="Matéri" weight="7.0" />
+      <edge id="23" source="Louveau" target="Pierre" weight="6.0" />
+      <edge id="24" source="Louveau" target="Saint" weight="5.0" />
+      <edge id="25" source="Victor" target="Clara" weight="64.0" />
+      <edge id="26" source="Victor" target="Maugendre" weight="59.0" />
+      <edge id="27" source="Victor" target="Mimile" weight="27.0" />
+      <edge id="28" source="Victor" target="Équipage" weight="25.0" />
+      <edge id="29" source="Victor" target="Corbigny" weight="23.0" />
+      <edge id="30" source="Victor" target="Dubac" weight="14.0" />
+      <edge id="31" source="Victor" target="Clamecy" weight="14.0" />
+      <edge id="32" source="Victor" target="Jarjaille" weight="13.0" />
+      <edge id="33" source="Victor" target="Maintenant" weight="10.0" />
+      <edge id="34" source="Victor" target="Matéri" weight="8.0" />
+      <edge id="35" source="Victor" target="Pierre" weight="7.0" />
+      <edge id="36" source="Victor" target="CHAPITRE" weight="7.0" />
+      <edge id="37" source="Victor" target="Saint" weight="6.0" />
+      <edge id="38" source="Clara" target="Maugendre" weight="45.0" />
+      <edge id="39" source="Clara" target="Équipage" weight="16.0" />
+      <edge id="40" source="Clara" target="Mimile" weight="16.0" />
+      <edge id="41" source="Clara" target="Jarjaille" weight="13.0" />
+      <edge id="42" source="Clara" target="Maintenant" weight="12.0" />
+      <edge id="43" source="Clara" target="Corbigny" weight="12.0" />
+      <edge id="44" source="Clara" target="Clamecy" weight="11.0" />
+      <edge id="45" source="Clara" target="Dubac" weight="9.0" />
+      <edge id="46" source="Clara" target="Matéri" weight="8.0" />
+      <edge id="47" source="Clara" target="CHAPITRE" weight="8.0" />
+      <edge id="48" source="Clara" target="Pierre" weight="7.0" />
+      <edge id="49" source="Clara" target="Saint" weight="6.0" />
+      <edge id="50" source="Maugendre" target="Équipage" weight="19.0" />
+      <edge id="51" source="Maugendre" target="Clamecy" weight="16.0" />
+      <edge id="52" source="Maugendre" target="Corbigny" weight="15.0" />
+      <edge id="53" source="Maugendre" target="Mimile" weight="13.0" />
+      <edge id="54" source="Maugendre" target="CHAPITRE" weight="7.0" />
+      <edge id="55" source="Maugendre" target="Maintenant" weight="5.0" />
+      <edge id="56" source="Maugendre" target="Saint" weight="1.0" />
+      <edge id="57" source="Maugendre" target="Pierre" weight="1.0" />
+      <edge id="58" source="Maugendre" target="Jarjaille" weight="1.0" />
+      <edge id="59" source="Maugendre" target="Matéri" weight="1.0" />
+      <edge id="60" source="Maugendre" target="Dubac" weight="1.0" />
+      <edge id="61" source="Mimile" target="Équipage" weight="8.0" />
+      <edge id="62" source="Mimile" target="Maintenant" weight="5.0" />
+      <edge id="63" source="Mimile" target="Dubac" weight="4.0" />
+      <edge id="64" source="Mimile" target="Clamecy" weight="3.0" />
+      <edge id="65" source="Mimile" target="Corbigny" weight="3.0" />
+      <edge id="66" source="Mimile" target="Pierre" weight="1.0" />
+      <edge id="67" source="Mimile" target="Saint" weight="1.0" />
+      <edge id="68" source="Mimile" target="Jarjaille" weight="1.0" />
+      <edge id="69" source="Mimile" target="CHAPITRE" weight="1.0" />
+      <edge id="70" source="Mimile" target="Matéri" weight="1.0" />
+      <edge id="71" source="Équipage" target="Dubac" weight="6.0" />
+      <edge id="72" source="Équipage" target="Clamecy" weight="5.0" />
+      <edge id="73" source="Équipage" target="Corbigny" weight="3.0" />
+      <edge id="74" source="Équipage" target="CHAPITRE" weight="1.0" />
+      <edge id="75" source="Équipage" target="Maintenant" weight="1.0" />
+      <edge id="76" source="Corbigny" target="Clamecy" weight="1.0" />
+      <edge id="77" source="Gaspard" target="Klotz" weight="23.0" />
+      <edge id="78" source="Gaspard" target="Garrigue" weight="6.0" />
+      <edge id="79" source="Gaspard" target="Balaguère" weight="1.0" />
+      <edge id="80" source="Klotz" target="Garrigue" weight="9.0" />
+      <edge id="81" source="Klotz" target="Balaguère" weight="1.0" />
+      <edge id="82" source="Dubac" target="Maintenant" weight="4.0" />
+      <edge id="83" source="Dubac" target="CHAPITRE" weight="2.0" />
+      <edge id="84" source="Dubac" target="Clamecy" weight="1.0" />
+      <edge id="85" source="Clamecy" target="Maintenant" weight="1.0" />
+      <edge id="86" source="Jarjaille" target="Pierre" weight="18.0" />
+      <edge id="87" source="Jarjaille" target="Saint" weight="16.0" />
+      <edge id="88" source="Jarjaille" target="Matéri" weight="12.0" />
+      <edge id="89" source="Jarjaille" target="Lakdar" weight="9.0" />
+      <edge id="90" source="Pierre" target="Saint" weight="13.0" />
+      <edge id="91" source="Pierre" target="Lakdar" weight="8.0" />
+      <edge id="92" source="Pierre" target="Matéri" weight="8.0" />
+      <edge id="93" source="Maintenant" target="CHAPITRE" weight="2.0" />
+      <edge id="94" source="Saint" target="Lakdar" weight="8.0" />
+      <edge id="95" source="Saint" target="Matéri" weight="6.0" />
+      <edge id="96" source="Garrigue" target="Balaguère" weight="5.0" />
+      <edge id="97" source="Garrigue" target="Garrigou" weight="3.0" />
+      <edge id="98" source="Garrigue" target="Arnoton" weight="3.0" />
+      <edge id="99" source="Garrigue" target="Drelindin" weight="3.0" />
+      <edge id="100" source="Balaguère" target="Drelindin" weight="9.0" />
+      <edge id="101" source="Balaguère" target="Garrigou" weight="8.0" />
+      <edge id="102" source="Balaguère" target="Arnoton" weight="6.0" />
+      <edge id="103" source="Balaguère" target="Augustine" weight="1.0" />
+      <edge id="104" source="Drelindin" target="Garrigou" weight="8.0" />
+      <edge id="105" source="Drelindin" target="Arnoton" weight="6.0" />
+      <edge id="106" source="Arnoton" target="Garrigou" weight="8.0" />
+      <edge id="107" source="Arnoton" target="Augustine" weight="1.0" />
+      <edge id="108" source="Garrigou" target="Augustine" weight="8.0" />
+    </edges>
+  </graph>
+</gexf>

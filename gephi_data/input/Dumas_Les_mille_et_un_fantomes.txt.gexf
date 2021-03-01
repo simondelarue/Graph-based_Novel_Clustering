@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Grégoriska" label="Grégoriska" />
+      <node id="Kostaki" label="Kostaki" />
+      <node id="Jacquemin" label="Jacquemin" />
+      <node id="Ledru" label="Ledru" />
+      <node id="Alliette" label="Alliette" />
+      <node id="Robert" label="Robert" />
+      <node id="Saint" label="Saint" />
+      <node id="Albert" label="Albert" />
+      <node id="Solange" label="Solange" />
+      <node id="Brankovan" label="Brankovan" />
+      <node id="Hélas" label="Hélas" />
+      <node id="Hedwige" label="Hedwige" />
+      <node id="Antoine" label="Antoine" />
+      <node id="Diane" label="Diane" />
+      <node id="Jeanne" label="Jeanne" />
+      <node id="Derrière" label="Derrière" />
+      <node id="Louis" label="Louis" />
+      <node id="Pierre" label="Pierre" />
+      <node id="Pardon" label="Pardon" />
+      <node id="Henri" label="Henri" />
+      <node id="Ledieu" label="Ledieu" />
+      <node id="Danton" label="Danton" />
+      <node id="Legros" label="Legros" />
+      <node id="Parbleu" label="Parbleu" />
+      <node id="Marceau" label="Marceau" />
+      <node id="Arrivé" label="Arrivé" />
+      <node id="John" label="John" />
+      <node id="Justement" label="Justement" />
+      <node id="Bazile" label="Bazile" />
+      <node id="Antoinette" label="Antoinette" />
+      <node id="Scarron" label="Scarron" />
+      <node id="Tenez" label="Tenez" />
+      <node id="Patrick" label="Patrick" />
+      <node id="Misérable" label="Misérable" />
+      <node id="Notre" label="Notre" />
+      <node id="Louesche" label="Louesche" />
+      <node id="Germain" label="Germain" />
+      <node id="Charlotte" label="Charlotte" />
+      <node id="Écoutez" label="Écoutez" />
+      <node id="Regardez" label="Regardez" />
+      <node id="Attends" label="Attends" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Grégoriska" target="Kostaki" weight="95.0" />
+      <edge id="1" source="Grégoriska" target="Brankovan" weight="39.0" />
+      <edge id="2" source="Grégoriska" target="Hélas" weight="37.0" />
+      <edge id="3" source="Grégoriska" target="Hedwige" weight="33.0" />
+      <edge id="4" source="Grégoriska" target="Tenez" weight="12.0" />
+      <edge id="5" source="Grégoriska" target="Bazile" weight="9.0" />
+      <edge id="6" source="Grégoriska" target="Notre" weight="6.0" />
+      <edge id="7" source="Grégoriska" target="Ledru" weight="5.0" />
+      <edge id="8" source="Grégoriska" target="Pierre" weight="1.0" />
+      <edge id="9" source="Kostaki" target="Hedwige" weight="36.0" />
+      <edge id="10" source="Kostaki" target="Brankovan" weight="34.0" />
+      <edge id="11" source="Kostaki" target="Hélas" weight="29.0" />
+      <edge id="12" source="Kostaki" target="Bazile" weight="14.0" />
+      <edge id="13" source="Kostaki" target="Ledru" weight="11.0" />
+      <edge id="14" source="Kostaki" target="Notre" weight="10.0" />
+      <edge id="15" source="Kostaki" target="Tenez" weight="3.0" />
+      <edge id="16" source="Kostaki" target="Pierre" weight="1.0" />
+      <edge id="17" source="Jacquemin" target="Ledru" weight="78.0" />
+      <edge id="18" source="Jacquemin" target="Robert" weight="42.0" />
+      <edge id="19" source="Jacquemin" target="Antoine" weight="35.0" />
+      <edge id="20" source="Jacquemin" target="Diane" weight="31.0" />
+      <edge id="21" source="Jacquemin" target="Derrière" weight="29.0" />
+      <edge id="22" source="Jacquemin" target="Jeanne" weight="25.0" />
+      <edge id="23" source="Jacquemin" target="Pierre" weight="22.0" />
+      <edge id="24" source="Jacquemin" target="Louis" weight="21.0" />
+      <edge id="25" source="Jacquemin" target="Saint" weight="20.0" />
+      <edge id="26" source="Jacquemin" target="Alliette" weight="16.0" />
+      <edge id="27" source="Jacquemin" target="Arrivé" weight="14.0" />
+      <edge id="28" source="Jacquemin" target="Scarron" weight="13.0" />
+      <edge id="29" source="Jacquemin" target="Misérable" weight="8.0" />
+      <edge id="30" source="Jacquemin" target="Écoutez" weight="2.0" />
+      <edge id="31" source="Jacquemin" target="Germain" weight="2.0" />
+      <edge id="32" source="Jacquemin" target="Henri" weight="1.0" />
+      <edge id="33" source="Jacquemin" target="Parbleu" weight="1.0" />
+      <edge id="34" source="Jacquemin" target="Pardon" weight="1.0" />
+      <edge id="35" source="Jacquemin" target="Regardez" weight="1.0" />
+      <edge id="36" source="Jacquemin" target="Tenez" weight="1.0" />
+      <edge id="37" source="Ledru" target="Alliette" weight="44.0" />
+      <edge id="38" source="Ledru" target="Robert" weight="39.0" />
+      <edge id="39" source="Ledru" target="Saint" weight="39.0" />
+      <edge id="40" source="Ledru" target="Solange" weight="36.0" />
+      <edge id="41" source="Ledru" target="Antoine" weight="31.0" />
+      <edge id="42" source="Ledru" target="Jeanne" weight="30.0" />
+      <edge id="43" source="Ledru" target="Louis" weight="25.0" />
+      <edge id="44" source="Ledru" target="Albert" weight="25.0" />
+      <edge id="45" source="Ledru" target="Pierre" weight="24.0" />
+      <edge id="46" source="Ledru" target="Diane" weight="24.0" />
+      <edge id="47" source="Ledru" target="Derrière" weight="22.0" />
+      <edge id="48" source="Ledru" target="Pardon" weight="20.0" />
+      <edge id="49" source="Ledru" target="Legros" weight="17.0" />
+      <edge id="50" source="Ledru" target="Parbleu" weight="17.0" />
+      <edge id="51" source="Ledru" target="Henri" weight="16.0" />
+      <edge id="52" source="Ledru" target="Arrivé" weight="16.0" />
+      <edge id="53" source="Ledru" target="Tenez" weight="12.0" />
+      <edge id="54" source="Ledru" target="Misérable" weight="12.0" />
+      <edge id="55" source="Ledru" target="Scarron" weight="11.0" />
+      <edge id="56" source="Ledru" target="Antoinette" weight="10.0" />
+      <edge id="57" source="Ledru" target="Danton" weight="7.0" />
+      <edge id="58" source="Ledru" target="Charlotte" weight="6.0" />
+      <edge id="59" source="Ledru" target="John" weight="6.0" />
+      <edge id="60" source="Ledru" target="Écoutez" weight="6.0" />
+      <edge id="61" source="Ledru" target="Ledieu" weight="6.0" />
+      <edge id="62" source="Ledru" target="Justement" weight="6.0" />
+      <edge id="63" source="Ledru" target="Hélas" weight="5.0" />
+      <edge id="64" source="Ledru" target="Hedwige" weight="5.0" />
+      <edge id="65" source="Ledru" target="Germain" weight="4.0" />
+      <edge id="66" source="Ledru" target="Patrick" weight="4.0" />
+      <edge id="67" source="Ledru" target="Regardez" weight="3.0" />
+      <edge id="68" source="Ledru" target="Bazile" weight="3.0" />
+      <edge id="69" source="Ledru" target="Brankovan" weight="2.0" />
+      <edge id="70" source="Ledru" target="Attends" weight="1.0" />
+      <edge id="71" source="Alliette" target="Saint" weight="14.0" />
+      <edge id="72" source="Alliette" target="Henri" weight="10.0" />
+      <edge id="73" source="Alliette" target="Tenez" weight="9.0" />
+      <edge id="74" source="Alliette" target="Louesche" weight="8.0" />
+      <edge id="75" source="Alliette" target="Louis" weight="7.0" />
+      <edge id="76" source="Alliette" target="Solange" weight="7.0" />
+      <edge id="77" source="Alliette" target="Germain" weight="6.0" />
+      <edge id="78" source="Alliette" target="Justement" weight="6.0" />
+      <edge id="79" source="Alliette" target="Robert" weight="4.0" />
+      <edge id="80" source="Alliette" target="Notre" weight="4.0" />
+      <edge id="81" source="Alliette" target="Albert" weight="3.0" />
+      <edge id="82" source="Alliette" target="Arrivé" weight="3.0" />
+      <edge id="83" source="Alliette" target="Pierre" weight="3.0" />
+      <edge id="84" source="Alliette" target="Parbleu" weight="3.0" />
+      <edge id="85" source="Alliette" target="Antoine" weight="2.0" />
+      <edge id="86" source="Alliette" target="Derrière" weight="2.0" />
+      <edge id="87" source="Alliette" target="Diane" weight="2.0" />
+      <edge id="88" source="Alliette" target="Pardon" weight="2.0" />
+      <edge id="89" source="Alliette" target="Écoutez" weight="2.0" />
+      <edge id="90" source="Alliette" target="Legros" weight="1.0" />
+      <edge id="91" source="Alliette" target="Jeanne" weight="1.0" />
+      <edge id="92" source="Alliette" target="Regardez" weight="1.0" />
+      <edge id="93" source="Robert" target="Jeanne" weight="9.0" />
+      <edge id="94" source="Robert" target="Scarron" weight="8.0" />
+      <edge id="95" source="Robert" target="Antoine" weight="7.0" />
+      <edge id="96" source="Robert" target="Derrière" weight="6.0" />
+      <edge id="97" source="Robert" target="Diane" weight="6.0" />
+      <edge id="98" source="Robert" target="Saint" weight="6.0" />
+      <edge id="99" source="Robert" target="Louis" weight="5.0" />
+      <edge id="100" source="Robert" target="Pierre" weight="5.0" />
+      <edge id="101" source="Robert" target="Arrivé" weight="4.0" />
+      <edge id="102" source="Robert" target="Misérable" weight="3.0" />
+      <edge id="103" source="Robert" target="Écoutez" weight="2.0" />
+      <edge id="104" source="Robert" target="Tenez" weight="2.0" />
+      <edge id="105" source="Robert" target="Henri" weight="2.0" />
+      <edge id="106" source="Robert" target="Germain" weight="2.0" />
+      <edge id="107" source="Robert" target="Parbleu" weight="1.0" />
+      <edge id="108" source="Robert" target="Notre" weight="1.0" />
+      <edge id="109" source="Robert" target="Albert" weight="1.0" />
+      <edge id="110" source="Robert" target="Charlotte" weight="1.0" />
+      <edge id="111" source="Robert" target="Regardez" weight="1.0" />
+      <edge id="112" source="Robert" target="Ledieu" weight="1.0" />
+      <edge id="113" source="Robert" target="Justement" weight="1.0" />
+      <edge id="114" source="Robert" target="Danton" weight="1.0" />
+      <edge id="115" source="Robert" target="Legros" weight="1.0" />
+      <edge id="116" source="Robert" target="Antoinette" weight="1.0" />
+      <edge id="117" source="Saint" target="Solange" weight="24.0" />
+      <edge id="118" source="Saint" target="Louis" weight="22.0" />
+      <edge id="119" source="Saint" target="Henri" weight="19.0" />
+      <edge id="120" source="Saint" target="Notre" weight="9.0" />
+      <edge id="121" source="Saint" target="Scarron" weight="8.0" />
+      <edge id="122" source="Saint" target="Danton" weight="7.0" />
+      <edge id="123" source="Saint" target="Germain" weight="6.0" />
+      <edge id="124" source="Saint" target="Albert" weight="6.0" />
+      <edge id="125" source="Saint" target="Marceau" weight="6.0" />
+      <edge id="126" source="Saint" target="Ledieu" weight="5.0" />
+      <edge id="127" source="Saint" target="Jeanne" weight="5.0" />
+      <edge id="128" source="Saint" target="Pierre" weight="4.0" />
+      <edge id="129" source="Saint" target="Pardon" weight="4.0" />
+      <edge id="130" source="Saint" target="Antoinette" weight="4.0" />
+      <edge id="131" source="Saint" target="Derrière" weight="4.0" />
+      <edge id="132" source="Saint" target="Patrick" weight="3.0" />
+      <edge id="133" source="Saint" target="Tenez" weight="3.0" />
+      <edge id="134" source="Saint" target="Justement" weight="3.0" />
+      <edge id="135" source="Saint" target="John" weight="3.0" />
+      <edge id="136" source="Saint" target="Arrivé" weight="3.0" />
+      <edge id="137" source="Saint" target="Legros" weight="2.0" />
+      <edge id="138" source="Saint" target="Écoutez" weight="2.0" />
+      <edge id="139" source="Saint" target="Antoine" weight="2.0" />
+      <edge id="140" source="Saint" target="Diane" weight="2.0" />
+      <edge id="141" source="Saint" target="Hélas" weight="2.0" />
+      <edge id="142" source="Saint" target="Parbleu" weight="1.0" />
+      <edge id="143" source="Saint" target="Misérable" weight="1.0" />
+      <edge id="144" source="Saint" target="Regardez" weight="1.0" />
+      <edge id="145" source="Saint" target="Louesche" weight="1.0" />
+      <edge id="146" source="Saint" target="Attends" weight="1.0" />
+      <edge id="147" source="Albert" target="Solange" weight="39.0" />
+      <edge id="148" source="Albert" target="Danton" weight="17.0" />
+      <edge id="149" source="Albert" target="Ledieu" weight="14.0" />
+      <edge id="150" source="Albert" target="Marceau" weight="9.0" />
+      <edge id="151" source="Albert" target="Legros" weight="9.0" />
+      <edge id="152" source="Albert" target="Antoinette" weight="8.0" />
+      <edge id="153" source="Albert" target="Pardon" weight="6.0" />
+      <edge id="154" source="Albert" target="Charlotte" weight="6.0" />
+      <edge id="155" source="Albert" target="Arrivé" weight="5.0" />
+      <edge id="156" source="Albert" target="Écoutez" weight="5.0" />
+      <edge id="157" source="Albert" target="Hélas" weight="3.0" />
+      <edge id="158" source="Albert" target="Justement" weight="2.0" />
+      <edge id="159" source="Albert" target="Germain" weight="1.0" />
+      <edge id="160" source="Albert" target="Parbleu" weight="1.0" />
+      <edge id="161" source="Albert" target="Tenez" weight="1.0" />
+      <edge id="162" source="Solange" target="Ledieu" weight="19.0" />
+      <edge id="163" source="Solange" target="Danton" weight="19.0" />
+      <edge id="164" source="Solange" target="Marceau" weight="17.0" />
+      <edge id="165" source="Solange" target="Hélas" weight="15.0" />
+      <edge id="166" source="Solange" target="Antoinette" weight="14.0" />
+      <edge id="167" source="Solange" target="Pardon" weight="13.0" />
+      <edge id="168" source="Solange" target="Legros" weight="11.0" />
+      <edge id="169" source="Solange" target="Justement" weight="10.0" />
+      <edge id="170" source="Solange" target="Écoutez" weight="3.0" />
+      <edge id="171" source="Solange" target="Arrivé" weight="3.0" />
+      <edge id="172" source="Solange" target="Charlotte" weight="2.0" />
+      <edge id="173" source="Solange" target="Parbleu" weight="1.0" />
+      <edge id="174" source="Solange" target="Louis" weight="1.0" />
+      <edge id="175" source="Solange" target="Tenez" weight="1.0" />
+      <edge id="176" source="Solange" target="Germain" weight="1.0" />
+      <edge id="177" source="Solange" target="Henri" weight="1.0" />
+      <edge id="178" source="Brankovan" target="Hedwige" weight="7.0" />
+      <edge id="179" source="Brankovan" target="Hélas" weight="6.0" />
+      <edge id="180" source="Brankovan" target="Bazile" weight="5.0" />
+      <edge id="181" source="Brankovan" target="Notre" weight="1.0" />
+      <edge id="182" source="Brankovan" target="Pierre" weight="1.0" />
+      <edge id="183" source="Hélas" target="Hedwige" weight="10.0" />
+      <edge id="184" source="Hélas" target="Arrivé" weight="2.0" />
+      <edge id="185" source="Hélas" target="Notre" weight="2.0" />
+      <edge id="186" source="Hélas" target="Henri" weight="1.0" />
+      <edge id="187" source="Hélas" target="Tenez" weight="1.0" />
+      <edge id="188" source="Hélas" target="Pierre" weight="1.0" />
+      <edge id="189" source="Hélas" target="Antoinette" weight="1.0" />
+      <edge id="190" source="Hélas" target="Bazile" weight="1.0" />
+      <edge id="191" source="Hélas" target="Louis" weight="1.0" />
+      <edge id="192" source="Hedwige" target="Bazile" weight="8.0" />
+      <edge id="193" source="Hedwige" target="Tenez" weight="6.0" />
+      <edge id="194" source="Hedwige" target="Notre" weight="1.0" />
+      <edge id="195" source="Antoine" target="Jeanne" weight="8.0" />
+      <edge id="196" source="Antoine" target="Scarron" weight="8.0" />
+      <edge id="197" source="Antoine" target="Diane" weight="6.0" />
+      <edge id="198" source="Antoine" target="Derrière" weight="5.0" />
+      <edge id="199" source="Antoine" target="Arrivé" weight="4.0" />
+      <edge id="200" source="Antoine" target="Tenez" weight="2.0" />
+      <edge id="201" source="Antoine" target="Misérable" weight="2.0" />
+      <edge id="202" source="Antoine" target="Henri" weight="1.0" />
+      <edge id="203" source="Antoine" target="Justement" weight="1.0" />
+      <edge id="204" source="Antoine" target="Louis" weight="1.0" />
+      <edge id="205" source="Antoine" target="Parbleu" weight="1.0" />
+      <edge id="206" source="Antoine" target="Pardon" weight="1.0" />
+      <edge id="207" source="Antoine" target="Pierre" weight="1.0" />
+      <edge id="208" source="Antoine" target="Regardez" weight="1.0" />
+      <edge id="209" source="Antoine" target="Écoutez" weight="1.0" />
+      <edge id="210" source="Diane" target="Pierre" weight="4.0" />
+      <edge id="211" source="Diane" target="Derrière" weight="4.0" />
+      <edge id="212" source="Diane" target="Jeanne" weight="3.0" />
+      <edge id="213" source="Diane" target="Arrivé" weight="2.0" />
+      <edge id="214" source="Diane" target="Louis" weight="2.0" />
+      <edge id="215" source="Diane" target="Germain" weight="2.0" />
+      <edge id="216" source="Diane" target="Regardez" weight="1.0" />
+      <edge id="217" source="Diane" target="Misérable" weight="1.0" />
+      <edge id="218" source="Jeanne" target="Scarron" weight="11.0" />
+      <edge id="219" source="Jeanne" target="Misérable" weight="6.0" />
+      <edge id="220" source="Jeanne" target="Louis" weight="5.0" />
+      <edge id="221" source="Jeanne" target="Pierre" weight="5.0" />
+      <edge id="222" source="Jeanne" target="Derrière" weight="3.0" />
+      <edge id="223" source="Jeanne" target="Regardez" weight="1.0" />
+      <edge id="224" source="Jeanne" target="Tenez" weight="1.0" />
+      <edge id="225" source="Jeanne" target="Écoutez" weight="1.0" />
+      <edge id="226" source="Jeanne" target="Arrivé" weight="1.0" />
+      <edge id="227" source="Derrière" target="Pierre" weight="8.0" />
+      <edge id="228" source="Derrière" target="Arrivé" weight="2.0" />
+      <edge id="229" source="Derrière" target="Louis" weight="2.0" />
+      <edge id="230" source="Derrière" target="Germain" weight="2.0" />
+      <edge id="231" source="Derrière" target="Regardez" weight="1.0" />
+      <edge id="232" source="Derrière" target="Misérable" weight="1.0" />
+      <edge id="233" source="Louis" target="Henri" weight="19.0" />
+      <edge id="234" source="Louis" target="Notre" weight="11.0" />
+      <edge id="235" source="Louis" target="Pierre" weight="10.0" />
+      <edge id="236" source="Louis" target="Scarron" weight="8.0" />
+      <edge id="237" source="Louis" target="John" weight="7.0" />
+      <edge id="238" source="Louis" target="Tenez" weight="6.0" />
+      <edge id="239" source="Louis" target="Patrick" weight="5.0" />
+      <edge id="240" source="Louis" target="Arrivé" weight="5.0" />
+      <edge id="241" source="Louis" target="Justement" weight="4.0" />
+      <edge id="242" source="Louis" target="Antoinette" weight="3.0" />
+      <edge id="243" source="Louis" target="Germain" weight="2.0" />
+      <edge id="244" source="Louis" target="Écoutez" weight="1.0" />
+      <edge id="245" source="Louis" target="Attends" weight="1.0" />
+      <edge id="246" source="Louis" target="Pardon" weight="1.0" />
+      <edge id="247" source="Louis" target="Parbleu" weight="1.0" />
+      <edge id="248" source="Louis" target="Misérable" weight="1.0" />
+      <edge id="249" source="Louis" target="Regardez" weight="1.0" />
+      <edge id="250" source="Pierre" target="Scarron" weight="8.0" />
+      <edge id="251" source="Pierre" target="Misérable" weight="2.0" />
+      <edge id="252" source="Pierre" target="Germain" weight="2.0" />
+      <edge id="253" source="Pierre" target="Écoutez" weight="1.0" />
+      <edge id="254" source="Pierre" target="Tenez" weight="1.0" />
+      <edge id="255" source="Pardon" target="Marceau" weight="8.0" />
+      <edge id="256" source="Pardon" target="Ledieu" weight="6.0" />
+      <edge id="257" source="Pardon" target="Danton" weight="5.0" />
+      <edge id="258" source="Pardon" target="Écoutez" weight="2.0" />
+      <edge id="259" source="Pardon" target="Henri" weight="2.0" />
+      <edge id="260" source="Pardon" target="Parbleu" weight="1.0" />
+      <edge id="261" source="Pardon" target="Germain" weight="1.0" />
+      <edge id="262" source="Pardon" target="Arrivé" weight="1.0" />
+      <edge id="263" source="Pardon" target="Justement" weight="1.0" />
+      <edge id="264" source="Henri" target="John" weight="7.0" />
+      <edge id="265" source="Henri" target="Notre" weight="6.0" />
+      <edge id="266" source="Henri" target="Arrivé" weight="6.0" />
+      <edge id="267" source="Henri" target="Patrick" weight="5.0" />
+      <edge id="268" source="Henri" target="Antoinette" weight="3.0" />
+      <edge id="269" source="Henri" target="Germain" weight="2.0" />
+      <edge id="270" source="Henri" target="Parbleu" weight="2.0" />
+      <edge id="271" source="Henri" target="Regardez" weight="2.0" />
+      <edge id="272" source="Henri" target="Tenez" weight="2.0" />
+      <edge id="273" source="Henri" target="Justement" weight="1.0" />
+      <edge id="274" source="Henri" target="Attends" weight="1.0" />
+      <edge id="275" source="Ledieu" target="Danton" weight="15.0" />
+      <edge id="276" source="Ledieu" target="Marceau" weight="12.0" />
+      <edge id="277" source="Ledieu" target="Justement" weight="5.0" />
+      <edge id="278" source="Ledieu" target="Charlotte" weight="4.0" />
+      <edge id="279" source="Ledieu" target="Legros" weight="4.0" />
+      <edge id="280" source="Ledieu" target="Antoinette" weight="4.0" />
+      <edge id="281" source="Ledieu" target="Écoutez" weight="3.0" />
+      <edge id="282" source="Ledieu" target="Arrivé" weight="3.0" />
+      <edge id="283" source="Ledieu" target="Germain" weight="1.0" />
+      <edge id="284" source="Danton" target="Marceau" weight="12.0" />
+      <edge id="285" source="Danton" target="Antoinette" weight="6.0" />
+      <edge id="286" source="Danton" target="Écoutez" weight="5.0" />
+      <edge id="287" source="Danton" target="Legros" weight="5.0" />
+      <edge id="288" source="Danton" target="Justement" weight="5.0" />
+      <edge id="289" source="Danton" target="Charlotte" weight="5.0" />
+      <edge id="290" source="Danton" target="Arrivé" weight="4.0" />
+      <edge id="291" source="Danton" target="Germain" weight="1.0" />
+      <edge id="292" source="Legros" target="Charlotte" weight="4.0" />
+      <edge id="293" source="Legros" target="Antoinette" weight="4.0" />
+      <edge id="294" source="Legros" target="Arrivé" weight="2.0" />
+      <edge id="295" source="Legros" target="Écoutez" weight="2.0" />
+      <edge id="296" source="Legros" target="Tenez" weight="1.0" />
+      <edge id="297" source="Legros" target="Parbleu" weight="1.0" />
+      <edge id="298" source="Parbleu" target="Notre" weight="7.0" />
+      <edge id="299" source="Parbleu" target="Arrivé" weight="2.0" />
+      <edge id="300" source="Parbleu" target="Écoutez" weight="1.0" />
+      <edge id="301" source="Parbleu" target="Antoinette" weight="1.0" />
+      <edge id="302" source="Marceau" target="Justement" weight="7.0" />
+      <edge id="303" source="Marceau" target="Écoutez" weight="1.0" />
+      <edge id="304" source="Marceau" target="Germain" weight="1.0" />
+      <edge id="305" source="Marceau" target="Arrivé" weight="1.0" />
+      <edge id="306" source="Arrivé" target="Notre" weight="7.0" />
+      <edge id="307" source="Arrivé" target="Antoinette" weight="4.0" />
+      <edge id="308" source="Arrivé" target="Regardez" weight="2.0" />
+      <edge id="309" source="Arrivé" target="Écoutez" weight="2.0" />
+      <edge id="310" source="Arrivé" target="Charlotte" weight="2.0" />
+      <edge id="311" source="Arrivé" target="Attends" weight="2.0" />
+      <edge id="312" source="Arrivé" target="Justement" weight="1.0" />
+      <edge id="313" source="Arrivé" target="Louesche" weight="1.0" />
+      <edge id="314" source="Arrivé" target="Misérable" weight="1.0" />
+      <edge id="315" source="Arrivé" target="Germain" weight="1.0" />
+      <edge id="316" source="John" target="Justement" weight="15.0" />
+      <edge id="317" source="John" target="Patrick" weight="12.0" />
+      <edge id="318" source="John" target="Tenez" weight="1.0" />
+      <edge id="319" source="John" target="Regardez" weight="1.0" />
+      <edge id="320" source="Justement" target="Germain" weight="3.0" />
+      <edge id="321" source="Justement" target="Écoutez" weight="1.0" />
+      <edge id="322" source="Justement" target="Tenez" weight="1.0" />
+      <edge id="323" source="Justement" target="Regardez" weight="1.0" />
+      <edge id="324" source="Bazile" target="Tenez" weight="1.0" />
+      <edge id="325" source="Antoinette" target="Charlotte" weight="4.0" />
+      <edge id="326" source="Antoinette" target="Écoutez" weight="2.0" />
+      <edge id="327" source="Antoinette" target="Notre" weight="1.0" />
+      <edge id="328" source="Scarron" target="Misérable" weight="8.0" />
+      <edge id="329" source="Scarron" target="Écoutez" weight="1.0" />
+      <edge id="330" source="Scarron" target="Tenez" weight="1.0" />
+      <edge id="331" source="Tenez" target="Germain" weight="2.0" />
+      <edge id="332" source="Tenez" target="Misérable" weight="1.0" />
+      <edge id="333" source="Tenez" target="Regardez" weight="1.0" />
+      <edge id="334" source="Tenez" target="Patrick" weight="1.0" />
+      <edge id="335" source="Patrick" target="Regardez" weight="1.0" />
+      <edge id="336" source="Misérable" target="Écoutez" weight="1.0" />
+      <edge id="337" source="Notre" target="Louesche" weight="7.0" />
+      <edge id="338" source="Notre" target="Germain" weight="3.0" />
+      <edge id="339" source="Notre" target="Attends" weight="3.0" />
+      <edge id="340" source="Notre" target="Regardez" weight="1.0" />
+      <edge id="341" source="Louesche" target="Germain" weight="7.0" />
+      <edge id="342" source="Charlotte" target="Écoutez" weight="2.0" />
+      <edge id="343" source="Regardez" target="Attends" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

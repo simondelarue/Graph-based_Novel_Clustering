@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Hans" label="Hans" />
+      <node id="Lidenbrock" label="Lidenbrock" />
+      <node id="Tout" label="Tout" />
+      <node id="Saknussemm" label="Saknussemm" />
+      <node id="Graüben" label="Graüben" />
+      <node id="Marthe" label="Marthe" />
+      <node id="Lundi" label="Lundi" />
+      <node id="König" label="König" />
+      <node id="Peut" label="Peut" />
+      <node id="Lorsqu" label="Lorsqu" />
+      <node id="Davy" label="Davy" />
+      <node id="Regarde" label="Regarde" />
+      <node id="Fridriksson" label="Fridriksson" />
+      <node id="Virlandaise" label="Virlandaise" />
+      <node id="Voyez" label="Voyez" />
+      <node id="Certes" label="Certes" />
+      <node id="Trampe" label="Trampe" />
+      <node id="Cuvier" label="Cuvier" />
+      <node id="Saknussem" label="Saknussem" />
+      <node id="Feroë" label="Feroë" />
+      <node id="Scartaris" label="Scartaris" />
+      <node id="Ruhmkorff" label="Ruhmkorff" />
+      <node id="Bjarne" label="Bjarne" />
+      <node id="Humphry" label="Humphry" />
+      <node id="Virgile" label="Virgile" />
+      <node id="Scandinave" label="Scandinave" />
+      <node id="Thomson" label="Thomson" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Hans" target="Lidenbrock" weight="86.0" />
+      <edge id="1" source="Hans" target="Tout" weight="73.0" />
+      <edge id="2" source="Hans" target="Saknussemm" weight="64.0" />
+      <edge id="3" source="Hans" target="Graüben" weight="46.0" />
+      <edge id="4" source="Hans" target="Lundi" weight="22.0" />
+      <edge id="5" source="Hans" target="König" weight="22.0" />
+      <edge id="6" source="Hans" target="Lorsqu" weight="20.0" />
+      <edge id="7" source="Hans" target="Davy" weight="20.0" />
+      <edge id="8" source="Hans" target="Regarde" weight="16.0" />
+      <edge id="9" source="Hans" target="Virlandaise" weight="15.0" />
+      <edge id="10" source="Hans" target="Voyez" weight="15.0" />
+      <edge id="11" source="Hans" target="Certes" weight="15.0" />
+      <edge id="12" source="Hans" target="Fridriksson" weight="14.0" />
+      <edge id="13" source="Hans" target="Ruhmkorff" weight="11.0" />
+      <edge id="14" source="Hans" target="Scartaris" weight="10.0" />
+      <edge id="15" source="Hans" target="Cuvier" weight="10.0" />
+      <edge id="16" source="Hans" target="Marthe" weight="9.0" />
+      <edge id="17" source="Hans" target="Virgile" weight="9.0" />
+      <edge id="18" source="Hans" target="Peut" weight="8.0" />
+      <edge id="19" source="Hans" target="Scandinave" weight="7.0" />
+      <edge id="20" source="Hans" target="Humphry" weight="2.0" />
+      <edge id="21" source="Hans" target="Trampe" weight="1.0" />
+      <edge id="22" source="Lidenbrock" target="Saknussemm" weight="50.0" />
+      <edge id="23" source="Lidenbrock" target="Graüben" weight="41.0" />
+      <edge id="24" source="Lidenbrock" target="Tout" weight="33.0" />
+      <edge id="25" source="Lidenbrock" target="Marthe" weight="27.0" />
+      <edge id="26" source="Lidenbrock" target="Peut" weight="20.0" />
+      <edge id="27" source="Lidenbrock" target="König" weight="17.0" />
+      <edge id="28" source="Lidenbrock" target="Virlandaise" weight="14.0" />
+      <edge id="29" source="Lidenbrock" target="Cuvier" weight="12.0" />
+      <edge id="30" source="Lidenbrock" target="Regarde" weight="11.0" />
+      <edge id="31" source="Lidenbrock" target="Fridriksson" weight="11.0" />
+      <edge id="32" source="Lidenbrock" target="Bjarne" weight="11.0" />
+      <edge id="33" source="Lidenbrock" target="Humphry" weight="11.0" />
+      <edge id="34" source="Lidenbrock" target="Scartaris" weight="11.0" />
+      <edge id="35" source="Lidenbrock" target="Voyez" weight="10.0" />
+      <edge id="36" source="Lidenbrock" target="Trampe" weight="9.0" />
+      <edge id="37" source="Lidenbrock" target="Saknussem" weight="9.0" />
+      <edge id="38" source="Lidenbrock" target="Feroë" weight="8.0" />
+      <edge id="39" source="Lidenbrock" target="Davy" weight="7.0" />
+      <edge id="40" source="Lidenbrock" target="Thomson" weight="6.0" />
+      <edge id="41" source="Lidenbrock" target="Certes" weight="5.0" />
+      <edge id="42" source="Lidenbrock" target="Lundi" weight="3.0" />
+      <edge id="43" source="Lidenbrock" target="Ruhmkorff" weight="3.0" />
+      <edge id="44" source="Lidenbrock" target="Virgile" weight="1.0" />
+      <edge id="45" source="Lidenbrock" target="Scandinave" weight="1.0" />
+      <edge id="46" source="Tout" target="Saknussemm" weight="29.0" />
+      <edge id="47" source="Tout" target="Fridriksson" weight="16.0" />
+      <edge id="48" source="Tout" target="Graüben" weight="13.0" />
+      <edge id="49" source="Tout" target="Regarde" weight="6.0" />
+      <edge id="50" source="Tout" target="Ruhmkorff" weight="6.0" />
+      <edge id="51" source="Tout" target="Certes" weight="6.0" />
+      <edge id="52" source="Tout" target="König" weight="5.0" />
+      <edge id="53" source="Tout" target="Trampe" weight="5.0" />
+      <edge id="54" source="Tout" target="Marthe" weight="5.0" />
+      <edge id="55" source="Tout" target="Peut" weight="4.0" />
+      <edge id="56" source="Tout" target="Voyez" weight="4.0" />
+      <edge id="57" source="Tout" target="Cuvier" weight="4.0" />
+      <edge id="58" source="Tout" target="Bjarne" weight="4.0" />
+      <edge id="59" source="Tout" target="Virlandaise" weight="3.0" />
+      <edge id="60" source="Tout" target="Scartaris" weight="3.0" />
+      <edge id="61" source="Tout" target="Thomson" weight="3.0" />
+      <edge id="62" source="Tout" target="Feroë" weight="3.0" />
+      <edge id="63" source="Tout" target="Lundi" weight="3.0" />
+      <edge id="64" source="Tout" target="Scandinave" weight="1.0" />
+      <edge id="65" source="Tout" target="Virgile" weight="1.0" />
+      <edge id="66" source="Tout" target="Saknussem" weight="1.0" />
+      <edge id="67" source="Tout" target="Davy" weight="1.0" />
+      <edge id="68" source="Tout" target="Lorsqu" weight="1.0" />
+      <edge id="69" source="Saknussemm" target="Graüben" weight="36.0" />
+      <edge id="70" source="Saknussemm" target="Marthe" weight="18.0" />
+      <edge id="71" source="Saknussemm" target="Fridriksson" weight="13.0" />
+      <edge id="72" source="Saknussemm" target="König" weight="11.0" />
+      <edge id="73" source="Saknussemm" target="Scartaris" weight="11.0" />
+      <edge id="74" source="Saknussemm" target="Peut" weight="10.0" />
+      <edge id="75" source="Saknussemm" target="Regarde" weight="9.0" />
+      <edge id="76" source="Saknussemm" target="Davy" weight="8.0" />
+      <edge id="77" source="Saknussemm" target="Saknussem" weight="8.0" />
+      <edge id="78" source="Saknussemm" target="Trampe" weight="7.0" />
+      <edge id="79" source="Saknussemm" target="Feroë" weight="6.0" />
+      <edge id="80" source="Saknussemm" target="Certes" weight="6.0" />
+      <edge id="81" source="Saknussemm" target="Ruhmkorff" weight="5.0" />
+      <edge id="82" source="Saknussemm" target="Voyez" weight="5.0" />
+      <edge id="83" source="Saknussemm" target="Bjarne" weight="5.0" />
+      <edge id="84" source="Saknussemm" target="Humphry" weight="4.0" />
+      <edge id="85" source="Saknussemm" target="Virlandaise" weight="4.0" />
+      <edge id="86" source="Saknussemm" target="Lundi" weight="2.0" />
+      <edge id="87" source="Saknussemm" target="Virgile" weight="2.0" />
+      <edge id="88" source="Saknussemm" target="Cuvier" weight="2.0" />
+      <edge id="89" source="Saknussemm" target="Lorsqu" weight="2.0" />
+      <edge id="90" source="Saknussemm" target="Scandinave" weight="1.0" />
+      <edge id="91" source="Graüben" target="Marthe" weight="18.0" />
+      <edge id="92" source="Graüben" target="König" weight="18.0" />
+      <edge id="93" source="Graüben" target="Davy" weight="13.0" />
+      <edge id="94" source="Graüben" target="Scartaris" weight="11.0" />
+      <edge id="95" source="Graüben" target="Virlandaise" weight="10.0" />
+      <edge id="96" source="Graüben" target="Saknussem" weight="7.0" />
+      <edge id="97" source="Graüben" target="Cuvier" weight="6.0" />
+      <edge id="98" source="Graüben" target="Thomson" weight="5.0" />
+      <edge id="99" source="Graüben" target="Regarde" weight="5.0" />
+      <edge id="100" source="Graüben" target="Humphry" weight="4.0" />
+      <edge id="101" source="Graüben" target="Voyez" weight="4.0" />
+      <edge id="102" source="Graüben" target="Lundi" weight="4.0" />
+      <edge id="103" source="Graüben" target="Bjarne" weight="4.0" />
+      <edge id="104" source="Graüben" target="Peut" weight="3.0" />
+      <edge id="105" source="Graüben" target="Certes" weight="2.0" />
+      <edge id="106" source="Graüben" target="Fridriksson" weight="1.0" />
+      <edge id="107" source="Graüben" target="Lorsqu" weight="1.0" />
+      <edge id="108" source="Graüben" target="Ruhmkorff" weight="1.0" />
+      <edge id="109" source="Graüben" target="Virgile" weight="1.0" />
+      <edge id="110" source="Graüben" target="Trampe" weight="1.0" />
+      <edge id="111" source="Marthe" target="König" weight="13.0" />
+      <edge id="112" source="Marthe" target="Saknussem" weight="11.0" />
+      <edge id="113" source="Marthe" target="Scartaris" weight="9.0" />
+      <edge id="114" source="Marthe" target="Virlandaise" weight="9.0" />
+      <edge id="115" source="Marthe" target="Humphry" weight="7.0" />
+      <edge id="116" source="Marthe" target="Davy" weight="4.0" />
+      <edge id="117" source="Marthe" target="Voyez" weight="3.0" />
+      <edge id="118" source="Marthe" target="Regarde" weight="2.0" />
+      <edge id="119" source="Marthe" target="Virgile" weight="1.0" />
+      <edge id="120" source="Marthe" target="Certes" weight="1.0" />
+      <edge id="121" source="Marthe" target="Bjarne" weight="1.0" />
+      <edge id="122" source="Marthe" target="Thomson" weight="1.0" />
+      <edge id="123" source="Lundi" target="Davy" weight="2.0" />
+      <edge id="124" source="Lundi" target="Virlandaise" weight="2.0" />
+      <edge id="125" source="Lundi" target="Cuvier" weight="1.0" />
+      <edge id="126" source="Lundi" target="Virgile" weight="1.0" />
+      <edge id="127" source="Lundi" target="Ruhmkorff" weight="1.0" />
+      <edge id="128" source="Lundi" target="Peut" weight="1.0" />
+      <edge id="129" source="Lundi" target="Lorsqu" weight="1.0" />
+      <edge id="130" source="Lundi" target="König" weight="1.0" />
+      <edge id="131" source="König" target="Virlandaise" weight="7.0" />
+      <edge id="132" source="König" target="Humphry" weight="6.0" />
+      <edge id="133" source="König" target="Scartaris" weight="4.0" />
+      <edge id="134" source="König" target="Davy" weight="3.0" />
+      <edge id="135" source="König" target="Voyez" weight="2.0" />
+      <edge id="136" source="König" target="Peut" weight="2.0" />
+      <edge id="137" source="König" target="Fridriksson" weight="1.0" />
+      <edge id="138" source="König" target="Certes" weight="1.0" />
+      <edge id="139" source="König" target="Virgile" weight="1.0" />
+      <edge id="140" source="König" target="Saknussem" weight="1.0" />
+      <edge id="141" source="König" target="Ruhmkorff" weight="1.0" />
+      <edge id="142" source="König" target="Regarde" weight="1.0" />
+      <edge id="143" source="König" target="Lorsqu" weight="1.0" />
+      <edge id="144" source="Peut" target="Fridriksson" weight="12.0" />
+      <edge id="145" source="Peut" target="Cuvier" weight="4.0" />
+      <edge id="146" source="Peut" target="Certes" weight="3.0" />
+      <edge id="147" source="Peut" target="Trampe" weight="2.0" />
+      <edge id="148" source="Peut" target="Feroë" weight="2.0" />
+      <edge id="149" source="Peut" target="Davy" weight="2.0" />
+      <edge id="150" source="Peut" target="Scandinave" weight="1.0" />
+      <edge id="151" source="Peut" target="Voyez" weight="1.0" />
+      <edge id="152" source="Peut" target="Bjarne" weight="1.0" />
+      <edge id="153" source="Lorsqu" target="Davy" weight="3.0" />
+      <edge id="154" source="Lorsqu" target="Ruhmkorff" weight="2.0" />
+      <edge id="155" source="Lorsqu" target="Voyez" weight="1.0" />
+      <edge id="156" source="Lorsqu" target="Virlandaise" weight="1.0" />
+      <edge id="157" source="Lorsqu" target="Virgile" weight="1.0" />
+      <edge id="158" source="Davy" target="Humphry" weight="6.0" />
+      <edge id="159" source="Davy" target="Scartaris" weight="4.0" />
+      <edge id="160" source="Davy" target="Virlandaise" weight="4.0" />
+      <edge id="161" source="Davy" target="Virgile" weight="2.0" />
+      <edge id="162" source="Davy" target="Voyez" weight="1.0" />
+      <edge id="163" source="Davy" target="Certes" weight="1.0" />
+      <edge id="164" source="Regarde" target="Virlandaise" weight="2.0" />
+      <edge id="165" source="Regarde" target="Scartaris" weight="1.0" />
+      <edge id="166" source="Regarde" target="Thomson" weight="1.0" />
+      <edge id="167" source="Regarde" target="Voyez" weight="1.0" />
+      <edge id="168" source="Regarde" target="Bjarne" weight="1.0" />
+      <edge id="169" source="Fridriksson" target="Trampe" weight="12.0" />
+      <edge id="170" source="Fridriksson" target="Feroë" weight="11.0" />
+      <edge id="171" source="Fridriksson" target="Bjarne" weight="10.0" />
+      <edge id="172" source="Fridriksson" target="Certes" weight="8.0" />
+      <edge id="173" source="Fridriksson" target="Ruhmkorff" weight="6.0" />
+      <edge id="174" source="Fridriksson" target="Virgile" weight="1.0" />
+      <edge id="175" source="Fridriksson" target="Scandinave" weight="1.0" />
+      <edge id="176" source="Virlandaise" target="Thomson" weight="6.0" />
+      <edge id="177" source="Virlandaise" target="Bjarne" weight="4.0" />
+      <edge id="178" source="Virlandaise" target="Saknussem" weight="2.0" />
+      <edge id="179" source="Virlandaise" target="Ruhmkorff" weight="1.0" />
+      <edge id="180" source="Virlandaise" target="Scartaris" weight="1.0" />
+      <edge id="181" source="Virlandaise" target="Trampe" weight="1.0" />
+      <edge id="182" source="Virlandaise" target="Virgile" weight="1.0" />
+      <edge id="183" source="Virlandaise" target="Cuvier" weight="1.0" />
+      <edge id="184" source="Virlandaise" target="Humphry" weight="1.0" />
+      <edge id="185" source="Virlandaise" target="Voyez" weight="1.0" />
+      <edge id="186" source="Voyez" target="Ruhmkorff" weight="1.0" />
+      <edge id="187" source="Voyez" target="Certes" weight="1.0" />
+      <edge id="188" source="Certes" target="Ruhmkorff" weight="4.0" />
+      <edge id="189" source="Certes" target="Trampe" weight="2.0" />
+      <edge id="190" source="Certes" target="Bjarne" weight="1.0" />
+      <edge id="191" source="Certes" target="Virgile" weight="1.0" />
+      <edge id="192" source="Certes" target="Scartaris" weight="1.0" />
+      <edge id="193" source="Certes" target="Saknussem" weight="1.0" />
+      <edge id="194" source="Certes" target="Feroë" weight="1.0" />
+      <edge id="195" source="Trampe" target="Bjarne" weight="3.0" />
+      <edge id="196" source="Trampe" target="Feroë" weight="3.0" />
+      <edge id="197" source="Trampe" target="Ruhmkorff" weight="1.0" />
+      <edge id="198" source="Trampe" target="Scandinave" weight="1.0" />
+      <edge id="199" source="Trampe" target="Thomson" weight="1.0" />
+      <edge id="200" source="Saknussem" target="Scartaris" weight="4.0" />
+      <edge id="201" source="Saknussem" target="Virgile" weight="1.0" />
+      <edge id="202" source="Feroë" target="Bjarne" weight="2.0" />
+      <edge id="203" source="Feroë" target="Scandinave" weight="1.0" />
+      <edge id="204" source="Scartaris" target="Humphry" weight="3.0" />
+      <edge id="205" source="Ruhmkorff" target="Virgile" weight="2.0" />
+      <edge id="206" source="Bjarne" target="Thomson" weight="4.0" />
+      <edge id="207" source="Bjarne" target="Scandinave" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

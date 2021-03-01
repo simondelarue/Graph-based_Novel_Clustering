@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Béatrix" label="Béatrix" />
+      <node id="Cenci" label="Cenci" />
+      <node id="François" label="François" />
+      <node id="Lucrèce" label="Lucrèce" />
+      <node id="Giacomo" label="Giacomo" />
+      <node id="Bernard" label="Bernard" />
+      <node id="Petrella" label="Petrella" />
+      <node id="Marzio" label="Marzio" />
+      <node id="Clément" label="Clément" />
+      <node id="Olimpio" label="Olimpio" />
+      <node id="Farinacci" label="Farinacci" />
+      <node id="Barberini" label="Barberini" />
+      <node id="Romain" label="Romain" />
+      <node id="Jacques" label="Jacques" />
+      <node id="Molière" label="Molière" />
+      <node id="Christophe" label="Christophe" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Béatrix" target="Cenci" weight="65.0" />
+      <edge id="1" source="Béatrix" target="François" weight="38.0" />
+      <edge id="2" source="Béatrix" target="Lucrèce" weight="32.0" />
+      <edge id="3" source="Béatrix" target="Giacomo" weight="19.0" />
+      <edge id="4" source="Béatrix" target="Petrella" weight="17.0" />
+      <edge id="5" source="Béatrix" target="Marzio" weight="17.0" />
+      <edge id="6" source="Béatrix" target="Olimpio" weight="15.0" />
+      <edge id="7" source="Béatrix" target="Bernard" weight="14.0" />
+      <edge id="8" source="Béatrix" target="Clément" weight="10.0" />
+      <edge id="9" source="Béatrix" target="Barberini" weight="7.0" />
+      <edge id="10" source="Béatrix" target="Farinacci" weight="4.0" />
+      <edge id="11" source="Béatrix" target="Romain" weight="4.0" />
+      <edge id="12" source="Béatrix" target="Jacques" weight="3.0" />
+      <edge id="13" source="Béatrix" target="Molière" weight="3.0" />
+      <edge id="14" source="Béatrix" target="Christophe" weight="2.0" />
+      <edge id="15" source="Cenci" target="François" weight="47.0" />
+      <edge id="16" source="Cenci" target="Lucrèce" weight="33.0" />
+      <edge id="17" source="Cenci" target="Giacomo" weight="23.0" />
+      <edge id="18" source="Cenci" target="Bernard" weight="23.0" />
+      <edge id="19" source="Cenci" target="Clément" weight="17.0" />
+      <edge id="20" source="Cenci" target="Petrella" weight="14.0" />
+      <edge id="21" source="Cenci" target="Olimpio" weight="10.0" />
+      <edge id="22" source="Cenci" target="Farinacci" weight="9.0" />
+      <edge id="23" source="Cenci" target="Romain" weight="7.0" />
+      <edge id="24" source="Cenci" target="Marzio" weight="7.0" />
+      <edge id="25" source="Cenci" target="Jacques" weight="6.0" />
+      <edge id="26" source="Cenci" target="Barberini" weight="4.0" />
+      <edge id="27" source="Cenci" target="Molière" weight="4.0" />
+      <edge id="28" source="Cenci" target="Christophe" weight="3.0" />
+      <edge id="29" source="François" target="Lucrèce" weight="15.0" />
+      <edge id="30" source="François" target="Petrella" weight="13.0" />
+      <edge id="31" source="François" target="Olimpio" weight="12.0" />
+      <edge id="32" source="François" target="Giacomo" weight="11.0" />
+      <edge id="33" source="François" target="Marzio" weight="9.0" />
+      <edge id="34" source="François" target="Clément" weight="7.0" />
+      <edge id="35" source="François" target="Romain" weight="5.0" />
+      <edge id="36" source="François" target="Bernard" weight="4.0" />
+      <edge id="37" source="François" target="Christophe" weight="2.0" />
+      <edge id="38" source="François" target="Molière" weight="2.0" />
+      <edge id="39" source="François" target="Farinacci" weight="1.0" />
+      <edge id="40" source="François" target="Jacques" weight="1.0" />
+      <edge id="41" source="Lucrèce" target="Bernard" weight="9.0" />
+      <edge id="42" source="Lucrèce" target="Giacomo" weight="9.0" />
+      <edge id="43" source="Lucrèce" target="Marzio" weight="9.0" />
+      <edge id="44" source="Lucrèce" target="Petrella" weight="9.0" />
+      <edge id="45" source="Lucrèce" target="Jacques" weight="6.0" />
+      <edge id="46" source="Lucrèce" target="Olimpio" weight="6.0" />
+      <edge id="47" source="Lucrèce" target="Barberini" weight="3.0" />
+      <edge id="48" source="Lucrèce" target="Farinacci" weight="1.0" />
+      <edge id="49" source="Lucrèce" target="Clément" weight="1.0" />
+      <edge id="50" source="Giacomo" target="Marzio" weight="7.0" />
+      <edge id="51" source="Giacomo" target="Petrella" weight="7.0" />
+      <edge id="52" source="Giacomo" target="Olimpio" weight="5.0" />
+      <edge id="53" source="Giacomo" target="Bernard" weight="5.0" />
+      <edge id="54" source="Giacomo" target="Farinacci" weight="2.0" />
+      <edge id="55" source="Giacomo" target="Clément" weight="2.0" />
+      <edge id="56" source="Giacomo" target="Jacques" weight="1.0" />
+      <edge id="57" source="Bernard" target="Marzio" weight="5.0" />
+      <edge id="58" source="Bernard" target="Farinacci" weight="4.0" />
+      <edge id="59" source="Bernard" target="Jacques" weight="4.0" />
+      <edge id="60" source="Bernard" target="Clément" weight="2.0" />
+      <edge id="61" source="Bernard" target="Olimpio" weight="2.0" />
+      <edge id="62" source="Bernard" target="Petrella" weight="2.0" />
+      <edge id="63" source="Petrella" target="Marzio" weight="8.0" />
+      <edge id="64" source="Petrella" target="Olimpio" weight="6.0" />
+      <edge id="65" source="Petrella" target="Barberini" weight="2.0" />
+      <edge id="66" source="Petrella" target="Jacques" weight="2.0" />
+      <edge id="67" source="Marzio" target="Olimpio" weight="10.0" />
+      <edge id="68" source="Marzio" target="Jacques" weight="1.0" />
+      <edge id="69" source="Clément" target="Christophe" weight="2.0" />
+      <edge id="70" source="Clément" target="Farinacci" weight="2.0" />
+      <edge id="71" source="Clément" target="Romain" weight="1.0" />
+      <edge id="72" source="Olimpio" target="Jacques" weight="1.0" />
+      <edge id="73" source="Barberini" target="Molière" weight="2.0" />
+      <edge id="74" source="Barberini" target="Jacques" weight="1.0" />
+      <edge id="75" source="Romain" target="Molière" weight="1.0" />
+      <edge id="76" source="Jacques" target="Christophe" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

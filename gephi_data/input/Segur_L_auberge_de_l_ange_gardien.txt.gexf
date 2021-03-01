@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Jacques" label="Jacques" />
+      <node id="Moutier" label="Moutier" />
+      <node id="Blidot" label="Blidot" />
+      <node id="Paul" label="Paul" />
+      <node id="Gardien" label="Gardien" />
+      <node id="MADAME" label="MADAME" />
+      <node id="Bournier" label="Bournier" />
+      <node id="Dérigny" label="Dérigny" />
+      <node id="Capitaine" label="Capitaine" />
+      <node id="Merci" label="Merci" />
+      <node id="Pardon" label="Pardon" />
+      <node id="Allons" label="Allons" />
+      <node id="Tiens" label="Tiens" />
+      <node id="Joseph" label="Joseph" />
+      <node id="Jacquot" label="Jacquot" />
+      <node id="Général" label="Général" />
+      <node id="Maman" label="Maman" />
+      <node id="Voyez" label="Voyez" />
+      <node id="Suivez" label="Suivez" />
+      <node id="Chacun" label="Chacun" />
+      <node id="Madeleine" label="Madeleine" />
+      <node id="Personne" label="Personne" />
+      <node id="Sapristi" label="Sapristi" />
+      <node id="Impossible" label="Impossible" />
+      <node id="Lorsqu" label="Lorsqu" />
+      <node id="Balthazar" label="Balthazar" />
+      <node id="Envoyez" label="Envoyez" />
+      <node id="Attends" label="Attends" />
+      <node id="Malakoff" label="Malakoff" />
+      <node id="Demandez" label="Demandez" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Jacques" target="Moutier" weight="321.0" />
+      <edge id="1" source="Jacques" target="Blidot" weight="211.0" />
+      <edge id="2" source="Jacques" target="Paul" weight="175.0" />
+      <edge id="3" source="Jacques" target="MADAME" weight="119.0" />
+      <edge id="4" source="Jacques" target="Capitaine" weight="103.0" />
+      <edge id="5" source="Jacques" target="Gardien" weight="88.0" />
+      <edge id="6" source="Jacques" target="Dérigny" weight="87.0" />
+      <edge id="7" source="Jacques" target="Bournier" weight="64.0" />
+      <edge id="8" source="Jacques" target="Merci" weight="48.0" />
+      <edge id="9" source="Jacques" target="Tiens" weight="41.0" />
+      <edge id="10" source="Jacques" target="Maman" weight="34.0" />
+      <edge id="11" source="Jacques" target="Pardon" weight="33.0" />
+      <edge id="12" source="Jacques" target="Général" weight="27.0" />
+      <edge id="13" source="Jacques" target="Jacquot" weight="26.0" />
+      <edge id="14" source="Jacques" target="Allons" weight="24.0" />
+      <edge id="15" source="Jacques" target="Joseph" weight="21.0" />
+      <edge id="16" source="Jacques" target="Voyez" weight="15.0" />
+      <edge id="17" source="Jacques" target="Personne" weight="12.0" />
+      <edge id="18" source="Jacques" target="Chacun" weight="11.0" />
+      <edge id="19" source="Jacques" target="Impossible" weight="10.0" />
+      <edge id="20" source="Jacques" target="Demandez" weight="10.0" />
+      <edge id="21" source="Jacques" target="Malakoff" weight="10.0" />
+      <edge id="22" source="Jacques" target="Madeleine" weight="9.0" />
+      <edge id="23" source="Jacques" target="Attends" weight="9.0" />
+      <edge id="24" source="Jacques" target="Balthazar" weight="6.0" />
+      <edge id="25" source="Jacques" target="Envoyez" weight="5.0" />
+      <edge id="26" source="Jacques" target="Suivez" weight="4.0" />
+      <edge id="27" source="Jacques" target="Sapristi" weight="3.0" />
+      <edge id="28" source="Jacques" target="Lorsqu" weight="1.0" />
+      <edge id="29" source="Moutier" target="Blidot" weight="320.0" />
+      <edge id="30" source="Moutier" target="Paul" weight="235.0" />
+      <edge id="31" source="Moutier" target="Gardien" weight="188.0" />
+      <edge id="32" source="Moutier" target="MADAME" weight="168.0" />
+      <edge id="33" source="Moutier" target="Bournier" weight="142.0" />
+      <edge id="34" source="Moutier" target="Dérigny" weight="117.0" />
+      <edge id="35" source="Moutier" target="Capitaine" weight="114.0" />
+      <edge id="36" source="Moutier" target="Merci" weight="61.0" />
+      <edge id="37" source="Moutier" target="Pardon" weight="58.0" />
+      <edge id="38" source="Moutier" target="Allons" weight="55.0" />
+      <edge id="39" source="Moutier" target="Tiens" weight="53.0" />
+      <edge id="40" source="Moutier" target="Joseph" weight="51.0" />
+      <edge id="41" source="Moutier" target="Jacquot" weight="45.0" />
+      <edge id="42" source="Moutier" target="Général" weight="45.0" />
+      <edge id="43" source="Moutier" target="Suivez" weight="31.0" />
+      <edge id="44" source="Moutier" target="Voyez" weight="30.0" />
+      <edge id="45" source="Moutier" target="Chacun" weight="27.0" />
+      <edge id="46" source="Moutier" target="Madeleine" weight="21.0" />
+      <edge id="47" source="Moutier" target="Personne" weight="21.0" />
+      <edge id="48" source="Moutier" target="Maman" weight="20.0" />
+      <edge id="49" source="Moutier" target="Sapristi" weight="19.0" />
+      <edge id="50" source="Moutier" target="Lorsqu" weight="18.0" />
+      <edge id="51" source="Moutier" target="Balthazar" weight="17.0" />
+      <edge id="52" source="Moutier" target="Attends" weight="15.0" />
+      <edge id="53" source="Moutier" target="Malakoff" weight="13.0" />
+      <edge id="54" source="Moutier" target="Demandez" weight="11.0" />
+      <edge id="55" source="Moutier" target="Envoyez" weight="11.0" />
+      <edge id="56" source="Moutier" target="Impossible" weight="10.0" />
+      <edge id="57" source="Blidot" target="Paul" weight="148.0" />
+      <edge id="58" source="Blidot" target="MADAME" weight="116.0" />
+      <edge id="59" source="Blidot" target="Gardien" weight="103.0" />
+      <edge id="60" source="Blidot" target="Dérigny" weight="102.0" />
+      <edge id="61" source="Blidot" target="Bournier" weight="83.0" />
+      <edge id="62" source="Blidot" target="Capitaine" weight="57.0" />
+      <edge id="63" source="Blidot" target="Merci" weight="47.0" />
+      <edge id="64" source="Blidot" target="Allons" weight="45.0" />
+      <edge id="65" source="Blidot" target="Pardon" weight="39.0" />
+      <edge id="66" source="Blidot" target="Général" weight="36.0" />
+      <edge id="67" source="Blidot" target="Chacun" weight="31.0" />
+      <edge id="68" source="Blidot" target="Madeleine" weight="21.0" />
+      <edge id="69" source="Blidot" target="Maman" weight="20.0" />
+      <edge id="70" source="Blidot" target="Joseph" weight="20.0" />
+      <edge id="71" source="Blidot" target="Voyez" weight="19.0" />
+      <edge id="72" source="Blidot" target="Impossible" weight="19.0" />
+      <edge id="73" source="Blidot" target="Jacquot" weight="17.0" />
+      <edge id="74" source="Blidot" target="Tiens" weight="15.0" />
+      <edge id="75" source="Blidot" target="Envoyez" weight="14.0" />
+      <edge id="76" source="Blidot" target="Suivez" weight="14.0" />
+      <edge id="77" source="Blidot" target="Balthazar" weight="10.0" />
+      <edge id="78" source="Blidot" target="Personne" weight="9.0" />
+      <edge id="79" source="Blidot" target="Demandez" weight="9.0" />
+      <edge id="80" source="Blidot" target="Attends" weight="6.0" />
+      <edge id="81" source="Blidot" target="Sapristi" weight="3.0" />
+      <edge id="82" source="Blidot" target="Lorsqu" weight="2.0" />
+      <edge id="83" source="Blidot" target="Malakoff" weight="2.0" />
+      <edge id="84" source="Paul" target="MADAME" weight="86.0" />
+      <edge id="85" source="Paul" target="Capitaine" weight="77.0" />
+      <edge id="86" source="Paul" target="Dérigny" weight="73.0" />
+      <edge id="87" source="Paul" target="Gardien" weight="59.0" />
+      <edge id="88" source="Paul" target="Tiens" weight="36.0" />
+      <edge id="89" source="Paul" target="Bournier" weight="34.0" />
+      <edge id="90" source="Paul" target="Merci" weight="33.0" />
+      <edge id="91" source="Paul" target="Maman" weight="24.0" />
+      <edge id="92" source="Paul" target="Allons" weight="19.0" />
+      <edge id="93" source="Paul" target="Pardon" weight="18.0" />
+      <edge id="94" source="Paul" target="Jacquot" weight="18.0" />
+      <edge id="95" source="Paul" target="Général" weight="16.0" />
+      <edge id="96" source="Paul" target="Voyez" weight="15.0" />
+      <edge id="97" source="Paul" target="Madeleine" weight="11.0" />
+      <edge id="98" source="Paul" target="Impossible" weight="10.0" />
+      <edge id="99" source="Paul" target="Chacun" weight="9.0" />
+      <edge id="100" source="Paul" target="Attends" weight="9.0" />
+      <edge id="101" source="Paul" target="Joseph" weight="9.0" />
+      <edge id="102" source="Paul" target="Demandez" weight="8.0" />
+      <edge id="103" source="Paul" target="Envoyez" weight="7.0" />
+      <edge id="104" source="Paul" target="Balthazar" weight="7.0" />
+      <edge id="105" source="Paul" target="Malakoff" weight="5.0" />
+      <edge id="106" source="Paul" target="Suivez" weight="5.0" />
+      <edge id="107" source="Paul" target="Personne" weight="3.0" />
+      <edge id="108" source="Paul" target="Sapristi" weight="2.0" />
+      <edge id="109" source="Paul" target="Lorsqu" weight="1.0" />
+      <edge id="110" source="Gardien" target="Dérigny" weight="53.0" />
+      <edge id="111" source="Gardien" target="MADAME" weight="46.0" />
+      <edge id="112" source="Gardien" target="Bournier" weight="35.0" />
+      <edge id="113" source="Gardien" target="Allons" weight="18.0" />
+      <edge id="114" source="Gardien" target="Merci" weight="16.0" />
+      <edge id="115" source="Gardien" target="Capitaine" weight="16.0" />
+      <edge id="116" source="Gardien" target="Pardon" weight="13.0" />
+      <edge id="117" source="Gardien" target="Chacun" weight="12.0" />
+      <edge id="118" source="Gardien" target="Tiens" weight="10.0" />
+      <edge id="119" source="Gardien" target="Joseph" weight="10.0" />
+      <edge id="120" source="Gardien" target="Général" weight="10.0" />
+      <edge id="121" source="Gardien" target="Voyez" weight="9.0" />
+      <edge id="122" source="Gardien" target="Madeleine" weight="8.0" />
+      <edge id="123" source="Gardien" target="Jacquot" weight="8.0" />
+      <edge id="124" source="Gardien" target="Suivez" weight="7.0" />
+      <edge id="125" source="Gardien" target="Impossible" weight="6.0" />
+      <edge id="126" source="Gardien" target="Balthazar" weight="6.0" />
+      <edge id="127" source="Gardien" target="Maman" weight="5.0" />
+      <edge id="128" source="Gardien" target="Envoyez" weight="5.0" />
+      <edge id="129" source="Gardien" target="Attends" weight="4.0" />
+      <edge id="130" source="Gardien" target="Sapristi" weight="3.0" />
+      <edge id="131" source="Gardien" target="Lorsqu" weight="2.0" />
+      <edge id="132" source="Gardien" target="Malakoff" weight="2.0" />
+      <edge id="133" source="Gardien" target="Personne" weight="2.0" />
+      <edge id="134" source="Gardien" target="Demandez" weight="2.0" />
+      <edge id="135" source="MADAME" target="Dérigny" weight="31.0" />
+      <edge id="136" source="MADAME" target="Bournier" weight="30.0" />
+      <edge id="137" source="MADAME" target="Capitaine" weight="29.0" />
+      <edge id="138" source="MADAME" target="Général" weight="24.0" />
+      <edge id="139" source="MADAME" target="Pardon" weight="19.0" />
+      <edge id="140" source="MADAME" target="Maman" weight="16.0" />
+      <edge id="141" source="MADAME" target="Impossible" weight="13.0" />
+      <edge id="142" source="MADAME" target="Chacun" weight="12.0" />
+      <edge id="143" source="MADAME" target="Merci" weight="11.0" />
+      <edge id="144" source="MADAME" target="Jacquot" weight="10.0" />
+      <edge id="145" source="MADAME" target="Allons" weight="9.0" />
+      <edge id="146" source="MADAME" target="Tiens" weight="8.0" />
+      <edge id="147" source="MADAME" target="Madeleine" weight="7.0" />
+      <edge id="148" source="MADAME" target="Joseph" weight="7.0" />
+      <edge id="149" source="MADAME" target="Voyez" weight="5.0" />
+      <edge id="150" source="MADAME" target="Suivez" weight="5.0" />
+      <edge id="151" source="MADAME" target="Attends" weight="4.0" />
+      <edge id="152" source="MADAME" target="Envoyez" weight="3.0" />
+      <edge id="153" source="MADAME" target="Malakoff" weight="3.0" />
+      <edge id="154" source="MADAME" target="Demandez" weight="3.0" />
+      <edge id="155" source="MADAME" target="Personne" weight="2.0" />
+      <edge id="156" source="MADAME" target="Balthazar" weight="1.0" />
+      <edge id="157" source="MADAME" target="Lorsqu" weight="1.0" />
+      <edge id="158" source="MADAME" target="Sapristi" weight="1.0" />
+      <edge id="159" source="Bournier" target="Dérigny" weight="38.0" />
+      <edge id="160" source="Bournier" target="Merci" weight="13.0" />
+      <edge id="161" source="Bournier" target="Joseph" weight="13.0" />
+      <edge id="162" source="Bournier" target="Pardon" weight="12.0" />
+      <edge id="163" source="Bournier" target="Général" weight="12.0" />
+      <edge id="164" source="Bournier" target="Chacun" weight="12.0" />
+      <edge id="165" source="Bournier" target="Allons" weight="12.0" />
+      <edge id="166" source="Bournier" target="Suivez" weight="8.0" />
+      <edge id="167" source="Bournier" target="Madeleine" weight="7.0" />
+      <edge id="168" source="Bournier" target="Capitaine" weight="7.0" />
+      <edge id="169" source="Bournier" target="Personne" weight="5.0" />
+      <edge id="170" source="Bournier" target="Voyez" weight="4.0" />
+      <edge id="171" source="Bournier" target="Jacquot" weight="4.0" />
+      <edge id="172" source="Bournier" target="Lorsqu" weight="3.0" />
+      <edge id="173" source="Bournier" target="Tiens" weight="3.0" />
+      <edge id="174" source="Bournier" target="Demandez" weight="2.0" />
+      <edge id="175" source="Bournier" target="Envoyez" weight="2.0" />
+      <edge id="176" source="Bournier" target="Impossible" weight="2.0" />
+      <edge id="177" source="Bournier" target="Sapristi" weight="1.0" />
+      <edge id="178" source="Bournier" target="Balthazar" weight="1.0" />
+      <edge id="179" source="Dérigny" target="Allons" weight="56.0" />
+      <edge id="180" source="Dérigny" target="Voyez" weight="32.0" />
+      <edge id="181" source="Dérigny" target="Madeleine" weight="23.0" />
+      <edge id="182" source="Dérigny" target="Jacquot" weight="22.0" />
+      <edge id="183" source="Dérigny" target="Général" weight="22.0" />
+      <edge id="184" source="Dérigny" target="Chacun" weight="20.0" />
+      <edge id="185" source="Dérigny" target="Envoyez" weight="16.0" />
+      <edge id="186" source="Dérigny" target="Merci" weight="15.0" />
+      <edge id="187" source="Dérigny" target="Pardon" weight="14.0" />
+      <edge id="188" source="Dérigny" target="Tiens" weight="14.0" />
+      <edge id="189" source="Dérigny" target="Impossible" weight="12.0" />
+      <edge id="190" source="Dérigny" target="Balthazar" weight="10.0" />
+      <edge id="191" source="Dérigny" target="Joseph" weight="8.0" />
+      <edge id="192" source="Dérigny" target="Suivez" weight="5.0" />
+      <edge id="193" source="Dérigny" target="Demandez" weight="1.0" />
+      <edge id="194" source="Dérigny" target="Lorsqu" weight="1.0" />
+      <edge id="195" source="Dérigny" target="Personne" weight="1.0" />
+      <edge id="196" source="Dérigny" target="Sapristi" weight="1.0" />
+      <edge id="197" source="Capitaine" target="Merci" weight="20.0" />
+      <edge id="198" source="Capitaine" target="Maman" weight="12.0" />
+      <edge id="199" source="Capitaine" target="Tiens" weight="10.0" />
+      <edge id="200" source="Capitaine" target="Demandez" weight="7.0" />
+      <edge id="201" source="Capitaine" target="Attends" weight="5.0" />
+      <edge id="202" source="Capitaine" target="Pardon" weight="3.0" />
+      <edge id="203" source="Capitaine" target="Personne" weight="2.0" />
+      <edge id="204" source="Capitaine" target="Jacquot" weight="2.0" />
+      <edge id="205" source="Capitaine" target="Envoyez" weight="1.0" />
+      <edge id="206" source="Capitaine" target="Impossible" weight="1.0" />
+      <edge id="207" source="Merci" target="Madeleine" weight="5.0" />
+      <edge id="208" source="Merci" target="Allons" weight="5.0" />
+      <edge id="209" source="Merci" target="Tiens" weight="4.0" />
+      <edge id="210" source="Merci" target="Général" weight="4.0" />
+      <edge id="211" source="Merci" target="Pardon" weight="4.0" />
+      <edge id="212" source="Merci" target="Sapristi" weight="3.0" />
+      <edge id="213" source="Merci" target="Maman" weight="3.0" />
+      <edge id="214" source="Merci" target="Joseph" weight="3.0" />
+      <edge id="215" source="Merci" target="Voyez" weight="2.0" />
+      <edge id="216" source="Merci" target="Suivez" weight="2.0" />
+      <edge id="217" source="Merci" target="Balthazar" weight="1.0" />
+      <edge id="218" source="Merci" target="Chacun" weight="1.0" />
+      <edge id="219" source="Merci" target="Malakoff" weight="1.0" />
+      <edge id="220" source="Merci" target="Envoyez" weight="1.0" />
+      <edge id="221" source="Merci" target="Lorsqu" weight="1.0" />
+      <edge id="222" source="Merci" target="Demandez" weight="1.0" />
+      <edge id="223" source="Pardon" target="Joseph" weight="5.0" />
+      <edge id="224" source="Pardon" target="Chacun" weight="4.0" />
+      <edge id="225" source="Pardon" target="Jacquot" weight="3.0" />
+      <edge id="226" source="Pardon" target="Suivez" weight="3.0" />
+      <edge id="227" source="Pardon" target="Attends" weight="3.0" />
+      <edge id="228" source="Pardon" target="Tiens" weight="3.0" />
+      <edge id="229" source="Pardon" target="Voyez" weight="2.0" />
+      <edge id="230" source="Pardon" target="Lorsqu" weight="2.0" />
+      <edge id="231" source="Pardon" target="Personne" weight="2.0" />
+      <edge id="232" source="Pardon" target="Balthazar" weight="1.0" />
+      <edge id="233" source="Pardon" target="Allons" weight="1.0" />
+      <edge id="234" source="Pardon" target="Sapristi" weight="1.0" />
+      <edge id="235" source="Pardon" target="Envoyez" weight="1.0" />
+      <edge id="236" source="Pardon" target="Impossible" weight="1.0" />
+      <edge id="237" source="Pardon" target="Madeleine" weight="1.0" />
+      <edge id="238" source="Allons" target="Général" weight="8.0" />
+      <edge id="239" source="Allons" target="Chacun" weight="4.0" />
+      <edge id="240" source="Allons" target="Voyez" weight="4.0" />
+      <edge id="241" source="Allons" target="Madeleine" weight="4.0" />
+      <edge id="242" source="Allons" target="Balthazar" weight="3.0" />
+      <edge id="243" source="Allons" target="Envoyez" weight="3.0" />
+      <edge id="244" source="Allons" target="Joseph" weight="2.0" />
+      <edge id="245" source="Allons" target="Suivez" weight="2.0" />
+      <edge id="246" source="Allons" target="Impossible" weight="2.0" />
+      <edge id="247" source="Allons" target="Lorsqu" weight="1.0" />
+      <edge id="248" source="Allons" target="Demandez" weight="1.0" />
+      <edge id="249" source="Allons" target="Jacquot" weight="1.0" />
+      <edge id="250" source="Allons" target="Maman" weight="1.0" />
+      <edge id="251" source="Allons" target="Personne" weight="1.0" />
+      <edge id="252" source="Allons" target="Tiens" weight="1.0" />
+      <edge id="253" source="Tiens" target="Attends" weight="5.0" />
+      <edge id="254" source="Tiens" target="Joseph" weight="2.0" />
+      <edge id="255" source="Tiens" target="Maman" weight="2.0" />
+      <edge id="256" source="Tiens" target="Jacquot" weight="2.0" />
+      <edge id="257" source="Tiens" target="Voyez" weight="2.0" />
+      <edge id="258" source="Tiens" target="Malakoff" weight="1.0" />
+      <edge id="259" source="Tiens" target="Balthazar" weight="1.0" />
+      <edge id="260" source="Tiens" target="Sapristi" weight="1.0" />
+      <edge id="261" source="Tiens" target="Personne" weight="1.0" />
+      <edge id="262" source="Tiens" target="Envoyez" weight="1.0" />
+      <edge id="263" source="Joseph" target="Balthazar" weight="3.0" />
+      <edge id="264" source="Joseph" target="Voyez" weight="3.0" />
+      <edge id="265" source="Joseph" target="Suivez" weight="2.0" />
+      <edge id="266" source="Joseph" target="Demandez" weight="2.0" />
+      <edge id="267" source="Joseph" target="Sapristi" weight="1.0" />
+      <edge id="268" source="Joseph" target="Lorsqu" weight="1.0" />
+      <edge id="269" source="Joseph" target="Général" weight="1.0" />
+      <edge id="270" source="Joseph" target="Envoyez" weight="1.0" />
+      <edge id="271" source="Jacquot" target="Madeleine" weight="5.0" />
+      <edge id="272" source="Jacquot" target="Impossible" weight="3.0" />
+      <edge id="273" source="Jacquot" target="Voyez" weight="1.0" />
+      <edge id="274" source="Jacquot" target="Personne" weight="1.0" />
+      <edge id="275" source="Jacquot" target="Général" weight="1.0" />
+      <edge id="276" source="Jacquot" target="Maman" weight="1.0" />
+      <edge id="277" source="Général" target="Chacun" weight="5.0" />
+      <edge id="278" source="Général" target="Suivez" weight="5.0" />
+      <edge id="279" source="Général" target="Madeleine" weight="3.0" />
+      <edge id="280" source="Général" target="Maman" weight="2.0" />
+      <edge id="281" source="Général" target="Voyez" weight="2.0" />
+      <edge id="282" source="Général" target="Balthazar" weight="1.0" />
+      <edge id="283" source="Général" target="Impossible" weight="1.0" />
+      <edge id="284" source="Général" target="Lorsqu" weight="1.0" />
+      <edge id="285" source="Général" target="Demandez" weight="1.0" />
+      <edge id="286" source="Général" target="Envoyez" weight="1.0" />
+      <edge id="287" source="Maman" target="Malakoff" weight="2.0" />
+      <edge id="288" source="Maman" target="Impossible" weight="2.0" />
+      <edge id="289" source="Voyez" target="Balthazar" weight="5.0" />
+      <edge id="290" source="Voyez" target="Chacun" weight="3.0" />
+      <edge id="291" source="Voyez" target="Envoyez" weight="3.0" />
+      <edge id="292" source="Voyez" target="Suivez" weight="1.0" />
+      <edge id="293" source="Voyez" target="Sapristi" weight="1.0" />
+      <edge id="294" source="Voyez" target="Personne" weight="1.0" />
+      <edge id="295" source="Voyez" target="Impossible" weight="1.0" />
+      <edge id="296" source="Voyez" target="Lorsqu" weight="1.0" />
+      <edge id="297" source="Suivez" target="Chacun" weight="4.0" />
+      <edge id="298" source="Suivez" target="Lorsqu" weight="2.0" />
+      <edge id="299" source="Suivez" target="Demandez" weight="1.0" />
+      <edge id="300" source="Chacun" target="Envoyez" weight="2.0" />
+      <edge id="301" source="Chacun" target="Impossible" weight="2.0" />
+      <edge id="302" source="Chacun" target="Balthazar" weight="1.0" />
+      <edge id="303" source="Chacun" target="Lorsqu" weight="1.0" />
+      <edge id="304" source="Chacun" target="Personne" weight="1.0" />
+      <edge id="305" source="Chacun" target="Sapristi" weight="1.0" />
+      <edge id="306" source="Madeleine" target="Impossible" weight="1.0" />
+      <edge id="307" source="Personne" target="Attends" weight="1.0" />
+      <edge id="308" source="Personne" target="Envoyez" weight="1.0" />
+      <edge id="309" source="Personne" target="Impossible" weight="1.0" />
+      <edge id="310" source="Sapristi" target="Malakoff" weight="1.0" />
+      <edge id="311" source="Sapristi" target="Balthazar" weight="1.0" />
+      <edge id="312" source="Sapristi" target="Envoyez" weight="1.0" />
+      <edge id="313" source="Impossible" target="Balthazar" weight="1.0" />
+      <edge id="314" source="Impossible" target="Envoyez" weight="1.0" />
+      <edge id="315" source="Lorsqu" target="Demandez" weight="1.0" />
+      <edge id="316" source="Balthazar" target="Envoyez" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

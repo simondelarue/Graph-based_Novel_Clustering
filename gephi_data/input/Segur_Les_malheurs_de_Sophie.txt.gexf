@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Paul" label="Paul" />
+      <node id="Sophie" label="Sophie" />
+      <node id="Réan" label="Réan" />
+      <node id="MADAME" label="MADAME" />
+      <node id="Camille" label="Camille" />
+      <node id="Aubert" label="Aubert" />
+      <node id="Puisque" label="Puisque" />
+      <node id="Madeleine" label="Madeleine" />
+      <node id="Maman" label="Maman" />
+      <node id="Merci" label="Merci" />
+      <node id="Lambert" label="Lambert" />
+      <node id="Élisabeth" label="Élisabeth" />
+      <node id="Fleurville" label="Fleurville" />
+      <node id="Tiens" label="Tiens" />
+      <node id="Minon" label="Minon" />
+      <node id="Aussitôt" label="Aussitôt" />
+      <node id="Louise" label="Louise" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Paul" target="Sophie" weight="440.0" />
+      <edge id="1" source="Paul" target="Réan" weight="252.0" />
+      <edge id="2" source="Paul" target="MADAME" weight="150.0" />
+      <edge id="3" source="Paul" target="Aubert" weight="77.0" />
+      <edge id="4" source="Paul" target="Merci" weight="64.0" />
+      <edge id="5" source="Paul" target="Camille" weight="62.0" />
+      <edge id="6" source="Paul" target="Puisque" weight="56.0" />
+      <edge id="7" source="Paul" target="Lambert" weight="52.0" />
+      <edge id="8" source="Paul" target="Maman" weight="44.0" />
+      <edge id="9" source="Paul" target="Madeleine" weight="38.0" />
+      <edge id="10" source="Paul" target="Fleurville" weight="28.0" />
+      <edge id="11" source="Paul" target="Élisabeth" weight="27.0" />
+      <edge id="12" source="Paul" target="Tiens" weight="26.0" />
+      <edge id="13" source="Paul" target="Minon" weight="22.0" />
+      <edge id="14" source="Paul" target="Louise" weight="14.0" />
+      <edge id="15" source="Paul" target="Aussitôt" weight="9.0" />
+      <edge id="16" source="Sophie" target="Réan" weight="403.0" />
+      <edge id="17" source="Sophie" target="MADAME" weight="272.0" />
+      <edge id="18" source="Sophie" target="Camille" weight="126.0" />
+      <edge id="19" source="Sophie" target="Aubert" weight="126.0" />
+      <edge id="20" source="Sophie" target="Puisque" weight="88.0" />
+      <edge id="21" source="Sophie" target="Madeleine" weight="80.0" />
+      <edge id="22" source="Sophie" target="Maman" weight="78.0" />
+      <edge id="23" source="Sophie" target="Merci" weight="49.0" />
+      <edge id="24" source="Sophie" target="Lambert" weight="43.0" />
+      <edge id="25" source="Sophie" target="Élisabeth" weight="32.0" />
+      <edge id="26" source="Sophie" target="Fleurville" weight="30.0" />
+      <edge id="27" source="Sophie" target="Tiens" weight="27.0" />
+      <edge id="28" source="Sophie" target="Minon" weight="27.0" />
+      <edge id="29" source="Sophie" target="Aussitôt" weight="12.0" />
+      <edge id="30" source="Sophie" target="Louise" weight="10.0" />
+      <edge id="31" source="Réan" target="MADAME" weight="114.0" />
+      <edge id="32" source="Réan" target="Aubert" weight="36.0" />
+      <edge id="33" source="Réan" target="Camille" weight="34.0" />
+      <edge id="34" source="Réan" target="Lambert" weight="30.0" />
+      <edge id="35" source="Réan" target="Élisabeth" weight="29.0" />
+      <edge id="36" source="Réan" target="Madeleine" weight="27.0" />
+      <edge id="37" source="Réan" target="Maman" weight="22.0" />
+      <edge id="38" source="Réan" target="Puisque" weight="21.0" />
+      <edge id="39" source="Réan" target="Minon" weight="20.0" />
+      <edge id="40" source="Réan" target="Aussitôt" weight="16.0" />
+      <edge id="41" source="Réan" target="Tiens" weight="12.0" />
+      <edge id="42" source="Réan" target="Merci" weight="11.0" />
+      <edge id="43" source="Réan" target="Fleurville" weight="10.0" />
+      <edge id="44" source="Réan" target="Louise" weight="9.0" />
+      <edge id="45" source="MADAME" target="Aubert" weight="38.0" />
+      <edge id="46" source="MADAME" target="Lambert" weight="35.0" />
+      <edge id="47" source="MADAME" target="Maman" weight="33.0" />
+      <edge id="48" source="MADAME" target="Élisabeth" weight="28.0" />
+      <edge id="49" source="MADAME" target="Camille" weight="27.0" />
+      <edge id="50" source="MADAME" target="Puisque" weight="18.0" />
+      <edge id="51" source="MADAME" target="Fleurville" weight="13.0" />
+      <edge id="52" source="MADAME" target="Louise" weight="10.0" />
+      <edge id="53" source="MADAME" target="Madeleine" weight="10.0" />
+      <edge id="54" source="MADAME" target="Merci" weight="10.0" />
+      <edge id="55" source="MADAME" target="Tiens" weight="10.0" />
+      <edge id="56" source="MADAME" target="Minon" weight="7.0" />
+      <edge id="57" source="MADAME" target="Aussitôt" weight="3.0" />
+      <edge id="58" source="Camille" target="Madeleine" weight="19.0" />
+      <edge id="59" source="Camille" target="Aubert" weight="12.0" />
+      <edge id="60" source="Camille" target="Lambert" weight="10.0" />
+      <edge id="61" source="Camille" target="Maman" weight="9.0" />
+      <edge id="62" source="Camille" target="Fleurville" weight="7.0" />
+      <edge id="63" source="Camille" target="Puisque" weight="4.0" />
+      <edge id="64" source="Camille" target="Merci" weight="2.0" />
+      <edge id="65" source="Camille" target="Aussitôt" weight="1.0" />
+      <edge id="66" source="Aubert" target="Élisabeth" weight="19.0" />
+      <edge id="67" source="Aubert" target="Louise" weight="7.0" />
+      <edge id="68" source="Aubert" target="Madeleine" weight="7.0" />
+      <edge id="69" source="Aubert" target="Puisque" weight="4.0" />
+      <edge id="70" source="Aubert" target="Fleurville" weight="4.0" />
+      <edge id="71" source="Aubert" target="Maman" weight="3.0" />
+      <edge id="72" source="Aubert" target="Tiens" weight="3.0" />
+      <edge id="73" source="Aubert" target="Lambert" weight="2.0" />
+      <edge id="74" source="Aubert" target="Aussitôt" weight="1.0" />
+      <edge id="75" source="Puisque" target="Madeleine" weight="4.0" />
+      <edge id="76" source="Puisque" target="Maman" weight="3.0" />
+      <edge id="77" source="Puisque" target="Lambert" weight="3.0" />
+      <edge id="78" source="Puisque" target="Louise" weight="2.0" />
+      <edge id="79" source="Puisque" target="Merci" weight="1.0" />
+      <edge id="80" source="Puisque" target="Fleurville" weight="1.0" />
+      <edge id="81" source="Puisque" target="Élisabeth" weight="1.0" />
+      <edge id="82" source="Madeleine" target="Maman" weight="7.0" />
+      <edge id="83" source="Madeleine" target="Fleurville" weight="3.0" />
+      <edge id="84" source="Madeleine" target="Merci" weight="1.0" />
+      <edge id="85" source="Madeleine" target="Tiens" weight="1.0" />
+      <edge id="86" source="Madeleine" target="Lambert" weight="1.0" />
+      <edge id="87" source="Maman" target="Lambert" weight="14.0" />
+      <edge id="88" source="Maman" target="Fleurville" weight="3.0" />
+      <edge id="89" source="Maman" target="Tiens" weight="3.0" />
+      <edge id="90" source="Maman" target="Merci" weight="3.0" />
+      <edge id="91" source="Maman" target="Aussitôt" weight="1.0" />
+      <edge id="92" source="Merci" target="Lambert" weight="10.0" />
+      <edge id="93" source="Merci" target="Fleurville" weight="2.0" />
+      <edge id="94" source="Lambert" target="Tiens" weight="13.0" />
+      <edge id="95" source="Lambert" target="Fleurville" weight="10.0" />
+      <edge id="96" source="Élisabeth" target="Louise" weight="16.0" />
+      <edge id="97" source="Tiens" target="Aussitôt" weight="1.0" />
+      <edge id="98" source="Minon" target="Aussitôt" weight="16.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-18">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Athis" label="Athis" />
+      <node id="Robert" label="Robert" />
+      <node id="Irma" label="Irma" />
+      <node id="Sallé" label="Sallé" />
+      <node id="Guillardin" label="Guillardin" />
+      <node id="Deloche" label="Deloche" />
+      <node id="Germain" label="Germain" />
+      <node id="Dame" label="Dame" />
+      <node id="Aubertot" label="Aubertot" />
+      <node id="Heurtebise" label="Heurtebise" />
+      <node id="Amaury" label="Amaury" />
+      <node id="Anaïs" label="Anaïs" />
+      <node id="Quelquefois" label="Quelquefois" />
+      <node id="Petitbry" label="Petitbry" />
+      <node id="Simaise" label="Simaise" />
+      <node id="Maintenant" label="Maintenant" />
+      <node id="Madame" label="Madame" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Athis" target="Robert" weight="19.0" />
+      <edge id="1" source="Athis" target="Irma" weight="18.0" />
+      <edge id="2" source="Athis" target="Sallé" weight="14.0" />
+      <edge id="3" source="Athis" target="Guillardin" weight="9.0" />
+      <edge id="4" source="Athis" target="Germain" weight="6.0" />
+      <edge id="5" source="Athis" target="Maintenant" weight="2.0" />
+      <edge id="6" source="Athis" target="Deloche" weight="1.0" />
+      <edge id="7" source="Robert" target="Irma" weight="11.0" />
+      <edge id="8" source="Robert" target="Sallé" weight="8.0" />
+      <edge id="9" source="Robert" target="Maintenant" weight="1.0" />
+      <edge id="10" source="Robert" target="Guillardin" weight="1.0" />
+      <edge id="11" source="Robert" target="Germain" weight="1.0" />
+      <edge id="12" source="Robert" target="Deloche" weight="1.0" />
+      <edge id="13" source="Irma" target="Sallé" weight="9.0" />
+      <edge id="14" source="Irma" target="Guillardin" weight="9.0" />
+      <edge id="15" source="Irma" target="Germain" weight="2.0" />
+      <edge id="16" source="Irma" target="Maintenant" weight="2.0" />
+      <edge id="17" source="Irma" target="Deloche" weight="1.0" />
+      <edge id="18" source="Sallé" target="Maintenant" weight="1.0" />
+      <edge id="19" source="Sallé" target="Guillardin" weight="1.0" />
+      <edge id="20" source="Sallé" target="Germain" weight="1.0" />
+      <edge id="21" source="Sallé" target="Deloche" weight="1.0" />
+      <edge id="22" source="Guillardin" target="Dame" weight="6.0" />
+      <edge id="23" source="Guillardin" target="Maintenant" weight="1.0" />
+      <edge id="24" source="Deloche" target="Germain" weight="7.0" />
+      <edge id="25" source="Deloche" target="Anaïs" weight="4.0" />
+      <edge id="26" source="Deloche" target="Quelquefois" weight="1.0" />
+      <edge id="27" source="Germain" target="Anaïs" weight="3.0" />
+      <edge id="28" source="Germain" target="Quelquefois" weight="1.0" />
+      <edge id="29" source="Dame" target="Amaury" weight="2.0" />
+      <edge id="30" source="Dame" target="Maintenant" weight="1.0" />
+      <edge id="31" source="Aubertot" target="Heurtebise" weight="5.0" />
+      <edge id="32" source="Aubertot" target="Amaury" weight="4.0" />
+      <edge id="33" source="Aubertot" target="Quelquefois" weight="1.0" />
+      <edge id="34" source="Heurtebise" target="Amaury" weight="4.0" />
+      <edge id="35" source="Heurtebise" target="Quelquefois" weight="3.0" />
+      <edge id="36" source="Amaury" target="Maintenant" weight="1.0" />
+      <edge id="37" source="Petitbry" target="Simaise" weight="3.0" />
+      <edge id="38" source="Petitbry" target="Madame" weight="2.0" />
+      <edge id="39" source="Petitbry" target="Maintenant" weight="2.0" />
+      <edge id="40" source="Simaise" target="Maintenant" weight="2.0" />
+      <edge id="41" source="Simaise" target="Madame" weight="1.0" />
+      <edge id="42" source="Maintenant" target="Madame" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
