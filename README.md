@@ -67,15 +67,9 @@ Une méthode de **clustering** (apprentissage non supervisé) est appliquée à 
 
 **Résultats**
 
-Deux métriques distinctes sont uilisées pour comparer les résultats obtenus, la **pureté** :
-```math
-purity = \dfrac{1}{N}\sum_k{max_j(W_k \cap C_j)}
-```
-
-et le **F1-score** :
-```math
-F1-score = 2 * \dfrac{precision*recall}{precision+recall}
-```
+Deux métriques distinctes sont uilisées pour comparer les résultats obtenus :
+- la **pureté** 
+- le **F1-score**
 
  <img src="img/KMeans.png" alt="KMeans" class="center"> 
 
